@@ -1,0 +1,1804 @@
+,Product,Aisle Assigned,Cosine Similarity,aisle_origin,number of transactions that had item
+0,Organic Riced Cauliflower,fresh vegetables,0.05928448682869861,missing,8366
+1,Pinot Noir Rose,white wines,0.05568271389033445,other,382
+2,The Original Margarita Mix,spirits,0.05381034711436959,other,136
+3,Margarita Salt,spirits,0.050016723502805296,other,129
+4,White Apple Cauliflower & Leek Organic Baby Food,baby food formula,0.04778118221580666,missing,424
+5,Peanut Butter Ice Cream Cup,ice cream ice,0.04626008387143853,missing,1933
+6,Eat Your Colors Purples Puree Baby Food,baby food formula,0.04455361303437754,missing,381
+7,Eat Your Colors Reds Puree Baby Food,baby food formula,0.041112731818956284,missing,333
+8,Classic Margarita Mix,spirits,0.04048076749120074,other,72
+9,Facial Mask Age Defying Hydro Serum,beauty,0.04009364300727358,other,47
+10,Cookie Dough Ice Cream Chocolate Chip,ice cream ice,0.03961810124244389,missing,1311
+11,Natural Lemon Flavored Sparkling Water,water seltzer sparkling water,0.03884077553875737,missing,1455
+12,"Stage 2 Eat Your Colors Organic, Green: Pea, Kiwi, Pear & Avocado Baby Food",baby food formula,0.038249092338428964,missing,309
+13,Protein Bar Maple Sea Salt,energy granola bars,0.036342280962997485,missing,609
+14,Roasted Almond Butter,fresh fruits,0.03619310297777038,other,3976
+15,Brightening Hydro Serum Facial Mask,beauty,0.034995896988140845,other,74
+16,Aromatic Bitters,spirits,0.03452211451099561,other,99
+17,Protein Bar Mint Chocolate,energy granola bars,0.03251826045482304,missing,448
+18,Organic Mango Yogurt,yogurt,0.030211506785155908,missing,1675
+19,Maple Almond Bar,energy granola bars,0.030159739647781892,missing,337
+20,S'mores Ice Cream,ice cream ice,0.029955685848016812,missing,686
+21,Pulled Porkless Pocket Meals,frozen vegan vegetarian,0.02980595659089617,missing,138
+22,Organic Celery Bunch,fresh vegetables,0.029632173228069842,missing,1645
+23,Recolte Wine,white wines,0.02880739183702319,other,166
+24,Bold & Spicy Bloody Mary Mix,spirits,0.02860304560087123,other,108
+25,Whispering Angel Rosé,red wines,0.02845971585634466,other,153
+26,Grenadine Syrup,spirits,0.028341825100934557,other,110
+27,California Blush Pink Champagne,specialty wines champagnes,0.028109927307505857,other,37
+28,Bloody Mary Mix,spirits,0.027315534160852747,other,190
+29,Strained Non-Fat Strawberry Icelandic Style Skyr Yogurt,yogurt,0.026899028300730276,missing,750
+30,Maximum Strength Original Paste Diaper Rash Ointment,diapers wipes,0.026618450611921682,other,270
+31,Oatneal Cookie Ice Cream,ice cream ice,0.026349454334387942,missing,650
+32,Organic Whole Milk Washington Black Cherry Yogurt,yogurt,0.025694640740972045,missing,1391
+33,Pomegranate Pick Me Up Protein Smoothies,frozen juice,0.025559235877170846,missing,13
+34,Sweetened Lime Juice,spirits,0.0255079856268436,other,102
+35,Grenadine,spirits,0.025167324709151857,other,62
+36,Peanut Butter & Coconut Bar,energy granola bars,0.024755059848555104,missing,297
+37,Cayenne Cleanse Kombucha,tea,0.02472132985134922,missing,904
+38,Light CocoWhip! Coconut Whipped Topping,soy lactosefree,0.024557912357804183,other,1536
+39,Organic Chocolate Chip Cookie Dough,doughs gelatins bake mixes,0.024014674886660387,missing,737
+40,Protein Smoothies Awesome Acai Berry,frozen juice,0.02322091148713876,missing,7
+41,Organic Asian Chopped Salad Kit,prepared soups salads,0.022986007207139333,missing,288
+42,Stella Pink Semi-Sweet,white wines,0.02249739888862156,other,57
+43,Soy & Dairy Free Plain Unsweetened Almond Milk Yogurt,soy lactosefree,0.02233243662543654,missing,1005
+44,Icelandic Style Cream-Skyr 4% Milkfat Strained Whole-Milk Yogurt Mango,yogurt,0.022130878482014057,missing,499
+45,Nighttime Sleep Aid Caplets,cocoa drink mixes,0.02195345314124905,other,55
+46,Original Bloody Mary Mix,spirits,0.021603710794922903,other,135
+47,Cane Sugar Cocktail Simple Syrup,spirits,0.021511827690085663,other,109
+48,Organic Vanilla Sugar Cookies,doughs gelatins bake mixes,0.021457219337534517,missing,310
+49,Infants Pain Reliever and Fever Reducer Berry Drops,cold flu allergy,0.0211907234751671,other,205
+50,Organic Black Bean Beet Banana Baby Food,baby food formula,0.021142296636555327,missing,76
+51,Psychic Detox Magickal Mineral Bath Salts,soap,0.021128866166549198,other,59
+52,Peppermint Essential Oil,air fresheners candles,0.021088483183449847,other,115
+53,Pink Lemonade Liquid Drink Enhancer,mint gum,0.02107726331928424,missing,24
+54,Sweet Vermouth Rosso,spirits,0.020975566773972235,other,12
+55,Coconut Flour,baking ingredients,0.0207760209434835,other,434
+56,93/7 Ground Beef,spirits,0.020464063338949606,other,1307
+57,Organic Ground Chicken,fresh vegetables,0.020332616492530046,missing,802
+58,Organic Plain Unsweetened Nondairy Cashew Yogurt,soy lactosefree,0.020170752935494442,missing,868
+59,Cotes De Provence,specialty wines champagnes,0.020016169588051528,other,101
+60,Sweet & Sour Mix,spirits,0.019851145596646514,other,32
+61,Maximum Absorbency Underwear for Men - L/XL,first aid,0.019795189561622396,other,60
+62,California White Zinfandel,white wines,0.019783655042753912,other,91
+63,Baby Healing Ointment,diapers wipes,0.01968307879048402,other,160
+64,Eat Your Colors Yellow Puree Baby Food,baby food formula,0.01966323173371848,missing,67
+65,BabyRub® Soothing Ointment,cold flu allergy,0.01962513024784853,other,90
+66,Organic Nondairy Strawberry Cashew Yogurt,soy lactosefree,0.01947751786355036,missing,914
+67,Organic Honey Balsamic Dressing & Marinade,indian foods,0.019290273658736506,missing,13
+68,"Mixer, Margarita",spirits,0.01928305145486743,other,23
+69,Eggless Scramble Breakfast Pockets,frozen vegan vegetarian,0.019204146073678697,missing,64
+70,Chocolate Almond Crunch Ice Cream,ice cream ice,0.018840939769031357,missing,239
+71,Dry Roasted No Salt Almonds,kitchen supplies,0.018639361363046624,other,84
+72,Maximum Strength Cough & Chest Congestion DM,cold flu allergy,0.01857720828817601,missing,31
+73,Antibacterial Liquid Hand Soap Fresh Citrus,eye ear care,0.0184727733241567,other,34
+74,Organic Cashew Nondairy Vanilla Yogurt,soy lactosefree,0.018406682955934756,missing,781
+75,"Limited Edition Entree, Chicken Tiki Masala",frozen meals,0.0182546148875081,missing,100
+76,Rapid Relief Creamy Diaper Rash Ointment,diapers wipes,0.018225411560807255,other,131
+77,Organic Rosehip Oil,skin care,0.01821548584634228,missing,21
+78,2 In 1 Fresh Berries Wild Raspberry Candle,air fresheners candles,0.01819587946377574,missing,9
+79,Coconut Almond Granola,yogurt,0.0180338805370679,other,819
+80,Fresh Organic Carrots,fresh vegetables,0.01779017390681481,missing,587
+81,Uncured Beef Hot Dog,fresh fruits,0.017754562043244423,missing,873
+82,Classic Vanilla Coffee Creamer,specialty wines champagnes,0.017690174404274575,other,396
+83,Mexican Chocolate Yogurt,yogurt,0.017678369651879983,missing,447
+84,Pink Moscato,white wines,0.017554646661683604,other,108
+85,Clarifying Acne Glycolic + Zinc Towelettes,skin care,0.017390383898179214,missing,9
+86,Matzo S'mores,kosher foods,0.017370793308317894,missing,5
+87,"Grape Wine, Coteaux Varois en Provence, 2013",white wines,0.017272187106558468,other,26
+88,Margaritas Strawberry Lime,spirits,0.017248285476275542,other,33
+89,Waterfall Hand Wash,body lotions soap,0.017149503863656074,other,98
+90,Cilantro Bunch,fresh vegetables,0.017071570538319175,missing,540
+91,Perfect Food Alkalize & Detoxifier RAW Organic Green Super Food,protein meal replacements,0.017035317818565234,other,27
+92,Candle Lighter,air fresheners candles,0.01696872881307054,other,132
+93,Sugar,cocoa drink mixes,0.016964031972783355,missing,55
+94,Clearly Crafted Zucchini Apples Quinoa & Basil Baby Food,baby food formula,0.01684125182915931,missing,46
+95,Sinus-Max Clear & Cool Maximum Strength Severe Congestion Relief Liquid,cold flu allergy,0.016632735555907247,missing,11
+96,Lemon Bag,fresh vegetables,0.016585124426826227,missing,652
+97,Honey Peanut Butter Blend & Banana Chips,refrigerated pudding desserts,0.016461565137737427,missing,26
+98,Calendula with Beeswax & Sunflower Zinc Oxide Diaper Cream,baby bath body care,0.016363896907432257,other,23
+99,Baby Naturals Gel For Teething Pain Relief,cold flu allergy,0.016227985477136928,other,26
+100,Pink Moscato California,white wines,0.01618295300058696,other,34
+101,Natural Bacon,specialty wines champagnes,0.016128682611260194,missing,14
+102,Giraffes Diapers Size 4 L,diapers wipes,0.016107740501377327,other,252
+103,Organic Cashew Nondairy Blueberry Yogurt,soy lactosefree,0.01603775680055348,missing,620
+104,Sambucus Nighttime Standardized Elderberry,vitamins supplements,0.01603126652246741,other,14
+105,Grapefruit Scented Foaming Hand Soap,body lotions soap,0.01597435682209338,other,106
+106,Vinho Verde Rose,white wines,0.015740673124861475,other,23
+107,Grain Free Chicken Salmon Beef Ground Entrees Wet Dog Food Variety Pack,dog food care,0.015699861584252364,missing,10
+108,Organic Poblano Pepper,fresh herbs,0.015440012625575046,missing,362
+109,"Stage 2 Eat Your Colors Orange Organic Peach, Pumpkin, Carrot & Cinnamon Baby Food",baby food formula,0.015406084570999366,missing,41
+110,Creamer,coffee,0.015295627493117338,other,522
+111,Protection Magickal Mineral Bath Salts With Natural Sea Salt & Pure Essential Oils,soap,0.015242264157993148,other,38
+112,Organic Crookneck Squash,fresh vegetables,0.015180320721822715,missing,366
+113,Moscato Rose,white wines,0.015173983822326941,other,11
+114,"Fruit & Nut Bar, Dark Chocolate & Cherry Cashew",energy granola bars,0.0151498808954107,missing,176
+115,Whole Milk Yogurt Organic Indonesian Vanilla Bean,yogurt,0.015090227583710385,missing,430
+116,Ten Year Old Tawny Porto,specialty wines champagnes,0.01508700110783853,other,4
+117,Organic Broccoli Florettes,packaged produce,0.01500345680011597,missing,161
+118,Cinnamon Vanilla Creme Liquid Coffee Creamer,cream,0.014998328146356415,other,362
+119,White Zinfandel,white wines,0.014930993185139777,other,120
+120,Simply Unwrapped Burrito,frozen meals,0.014587053033618732,missing,76
+121,Roasted Unsalted Almonds,fresh fruits,0.014505788701623949,other,564
+122,Fruit Fly Trap,more household,0.014325624187199727,other,43
+123,Liquid Teething Relief,baby food formula,0.014268772459453122,other,331
+124,"Magic Tape Refillable Dispenser 3/4\"" x 850\""",more household,0.01426817953756397,missing,236
+125,Margarita,white wines,0.014245445692241565,other,86
+126,Blueberry Cashew Bar,energy granola bars,0.0142453665317429,missing,128
+127,Blissful Catnip Mega Cat Treats,cat food care,0.014205593721803036,missing,7
+128,Organic Uncured Beef Hot Dog,buns rolls,0.014138110442975712,missing,518
+129,Simple Syrup,spirits,0.014048903662779938,other,107
+130,Purely Natural Treats Variety Pack Cat Treats,cat food care,0.013959945336595628,missing,25
+131,Shrimpy Shrimp Flavor Treats for Cats,cat food care,0.01394961611184683,missing,12
+132,Light Margarita,beers coolers,0.013914504855658762,other,25
+133,Coffee Mate French Vanilla Creamer Packets,soft drinks,0.01386217859347136,other,794
+134,Organic Elderberry Tonic,refrigerated,0.013613811230387593,missing,111
+135,Spicy Salmon Roll,white wines,0.013586061675336273,other,134
+136,Walnuts,fresh vegetables,0.013555175722351391,other,568
+137,Whole Bay Leaves,spices seasonings,0.013449244218482453,other,176
+138,PODs HE Free & Gentle Laundry Detergent,facial care,0.013414664072008553,missing,8
+139,Organic Margarita Mix,spirits,0.013411058792203003,other,41
+140,Red Beet Bunch,fresh vegetables,0.013297985238735639,missing,315
+141,Pate With Chicken & Liver,cat food care,0.013288116170673464,missing,8
+142,Max AAA Batteries,more household,0.013253267578084137,other,314
+143,Cherry Vanilla Granola,yogurt,0.013199849048417416,other,451
+144,Natural Calm Anti-Stress Drink,vitamins supplements,0.013190849241860963,other,138
+145,Butt Paste Original Diaper Rash Ointment,diapers wipes,0.013187677323389118,other,44
+146,Natural Minerals Sundreams Lotus Infused Bronzer Duo Sunkissed Glow,beauty,0.013088960387126302,missing,4
+147,Pierogi Potato & Cheese,packaged produce,0.013030751663568695,other,469
+148,Maximum Strength Original Diaper Rash Ointment,diapers wipes,0.013010362733815097,other,107
+149,Light Classic Lime Margarita Mix,spirits,0.012954628656182842,other,26
+150,Queso Fresco Cheese,fresh herbs,0.012829594437834756,other,223
+151,Old Fashion Aromatic Bitters,spirits,0.012824428078756642,other,13
+152,Makeup Brush Cleansing Cloths,skin care,0.01277927009449552,missing,6
+153,Organic Brown Rice Flour Gluten Free,baking ingredients,0.012726221147288141,missing,109
+154,Kombucha Organic & Raw Tantric Tumeric,refrigerated,0.012710893108696397,missing,147
+155,Dog Snacks Filet Mignon & Bacon Flavors,dog food care,0.01266777134449396,missing,6
+156,General Tsao's Tofu,frozen meals,0.0126535874581343,missing,101
+157,Organic Nondairy Lemon Cashew Yogurt,soy lactosefree,0.012648737663820783,missing,440
+158,One Beyond Grain Free Arctic Char & Spinach,frozen dessert,0.012642706624590347,missing,3
+159,Regular Nail Polish Remover,beauty,0.012629554649130115,other,87
+160,Nutri Grain Pumpkin Spice Bars,breakfast bars pastries,0.012580670087013088,missing,24
+161,Sumo Mandarin,fresh fruits,0.012571464945964792,missing,423
+162,"Conditioner, Fortifying, Sleek & Shine, Frizzy, Dry Unmanageable Hair",hair care,0.012552081511674501,missing,4
+163,Steamfresh Veggie Made Riced Cauliflower,frozen dessert,0.012518144900913054,missing,34
+164,Fine Black Permanent Marker,more household,0.012517467099408095,missing,88
+165,Vanilla Latte Chilled Espresso Beverage,breakfast bars pastries,0.012478624143023129,other,85
+166,Milk Chocolate Bunny,eye ear care,0.01243772436083759,missing,3
+167,Organic Grabbits Mint Chocolate Sandwich Cookies,beauty,0.01241727810811151,missing,10
+168,Natural Hand-Flaked Tuna Cat Treat Packs,cat food care,0.01239965876608607,missing,12
+169,Moderate Absorbency Long Length Incontinence Pads,feminine care,0.012398258941756215,other,25
+170,Chocolate Caramel Protein Snack Bar,protein meal replacements,0.012379941814703222,missing,135
+171,Purple Sweet Potato (Yam),fresh vegetables,0.01232922504730752,missing,288
+172,Vanilla Frozen Greek Yogurt Sandwiches,indian foods,0.01229518522605529,missing,2
+173,Perfectly Pink Spritzer,specialty wines champagnes,0.012256112345183224,other,33
+174,No.4 Natural Brown Cone Coffee Filters,coffee,0.012169572101933323,missing,272
+175,French Cheesecake,frozen dessert,0.012146719625369982,missing,13
+176,Lentils Provencal,air fresheners candles,0.012080972251337311,missing,15
+177,Lavander & Aloe Lotion,skin care,0.012048411389909646,missing,12
+178,Tropical Fruit Electrolyte Solution,baby food formula,0.011922779345923926,other,96
+179,Organic Ginseng Mandarin Tonic,refrigerated,0.01188042278611141,missing,122
+180,Sea-Salt Grain-Free Tortilla Chips,fresh vegetables,0.011822126622084563,missing,491
+181,Ultra Plush White Mega Rolls,canned meat seafood,0.011801643825306333,missing,30
+182,"Multivitamin, Kids Complete, Gummies",vitamins supplements,0.01176373352626521,other,416
+183,Moroccan Tagine,marinades meat preparation,0.011705116912937632,missing,50
+184,Healing Ointment Advanced Therapy,diapers wipes,0.011703452253801311,other,40
+185,Mild Flavor Celery Hearts,kosher foods,0.011654608939023411,missing,84
+186,Duct Tape,more household,0.0116112205939696,other,55
+187,Kids Black Elderberry Syrup,vitamins supplements,0.011602906853078705,other,67
+188,Regular Liquid Nail Polish Remover,beauty,0.011569115810523882,other,32
+189,Baby Cough Syrup,cold flu allergy,0.01152427329214626,other,29
+190,Hand Soap Organic Lemongrass,soap,0.011499728966478485,other,116
+191,Mocha Nitro Cold Brew Coffee With Almond Milk,coffee,0.011460202628475948,missing,214
+192,Intensive Repair Extra-Enriched Hand Creme,air fresheners candles,0.011374893442630124,other,47
+193,Natural Foods Spanish Paella,marinades meat preparation,0.011349160677292792,missing,48
+194,Kitchen Bug Killer 2 Botanical,first aid,0.011340503743606335,other,13
+195,Organic Chopped BBQ Ranch Salad Kit,prepared soups salads,0.011337460163209273,missing,71
+196,Pesto Swirls,frozen appetizers sides,0.011313781079714398,missing,79
+197,Liquid Water Enhance Ice Van Java,cocoa drink mixes,0.01130446200081391,missing,21
+198,Baby Vitamin C tablets,cold flu allergy,0.01126041520252871,other,24
+199,Mixed Fruit Flavor Multi Symptom Relief Cold and Flu Gummies,cold flu allergy,0.01126041520252871,missing,6
+200,Chunky Chili Mac Soup,soup broth bouillon,0.01125567449132085,missing,52
+201,Duster 360 Refill,cleaning products,0.011208171873234016,missing,26
+202,Spinach & Ricotta Ravioli Bowl,frozen meals,0.011189560527591446,missing,84
+203,Twisted Tropical Tango Organic Juice Drink,juice nectars,0.01118271253780509,missing,84
+204,SleepTabs Nighttime Sleep Aid,facial care,0.011178886726673797,other,72
+205,Strawberry Whole Milk Drinkable Yogurt,yogurt,0.011175059119108646,missing,242
+206,Dairy Free French Vanilla Creamer Almond Milk,soy lactosefree,0.011171156583307933,missing,313
+207,Chili Rellano Casserole Bowl,frozen meals,0.011166992877501834,missing,81
+208,Original Shorty Smoked Sausages,packaged produce,0.011111908522047447,missing,65
+209,White Tea & Berry Fusion Antibacterial Hand Soap Moisturizers,body lotions soap,0.011062434235752453,other,23
+210,Peaceful Sleep Oil Blend,air fresheners candles,0.011028368364419028,other,18
+211,Gold Bears,beers coolers,0.010956642697819577,missing,7
+212,Baking Soda Cream Cleaner Lemon Verbena,cleaning products,0.010954351620712496,other,34
+213,Kiwifruit,fresh fruits,0.010947093811752526,other,303
+214,Penne pasta with a spicy tomato basil sauce & parmesan cheese Spicy Penne Arrabbiata,frozen meals,0.010904478583303318,missing,34
+215,Clear Away Wart Remover Medicated Discs & Cushioning Pads for Feet,first aid,0.010896893215576912,other,22
+216,Skinny Margarita,white wines,0.010895987583113961,other,12
+217,Natural Stress Relief,skin care,0.010888102554321022,other,45
+218,Lemonade With Mint,frozen juice,0.010860586874184577,missing,2
+219,Original Disney Princess Spaghetti Os Cool Shapes Pasta in Tomato & Cheese Sauce,frozen juice,0.010860586874184577,missing,2
+220,Lighters,air fresheners candles,0.010859986440365146,other,33
+221,Lemon Verbena Foaming Hand Soap,soap,0.010849523143534998,other,75
+222,Facial Tissues with Lotion,paper goods,0.010842255572845804,other,137
+223,Umcka Cold Care Children's Cherry Flavor Syrup,cold flu allergy,0.01083589238995758,other,49
+224,Organic Blue Corn Tortilla Dippers,preserved dips spreads,0.010795600609604635,missing,245
+225,Turkey Snack Sticks,mint gum,0.010732937393963147,missing,17
+226,Organic Lime Bag,fresh herbs,0.010718734693743388,missing,163
+227,Coconut Chocolate Protein Bar,energy granola bars,0.01071258351531343,missing,88
+228,Organic Wild Rumpus Avocado Babyfood,baby food formula,0.010691366811374047,missing,26
+229,Grill Mates Brown Sugar Bourbon Seasoning,kitchen supplies,0.010677035543974553,missing,1
+230,"Ibuprofen Drops for ages 6-23 Months, White Grape Flavor",cold flu allergy,0.010640092244722135,other,42
+231,Green Lemonade,juice nectars,0.010633808992891097,missing,142
+232,Buffalo Style Chicken Wrap,packaged meat,0.010617243995443261,missing,17
+233,"Coldpuree Organic Stage 2 Banana, Blueberry and Avocado Baby Food",baby food formula,0.01060533255017032,missing,29
+234,Liquid Ant Baits,more household,0.010585771138310362,other,35
+235,Rescue Remedy,vitamins supplements,0.010541493861178402,other,152
+236,Big Daddy Ipa in Can,beers coolers,0.010488452670408736,missing,11
+237,Habanero Pepper,fresh herbs,0.010479817894565936,missing,166
+238,Natural Uncured Beef Hot Dog,buns rolls,0.01047529155011173,missing,201
+239,Lemon Cayenne Drinking Vinegar,refrigerated,0.010460737138921157,missing,188
+240,Coldpuree Organic Stage 2 Pear and Apricot Baby Food,baby food formula,0.010448600313470757,missing,20
+241,"Melatonin, 3 mg, Tablets",vitamins supplements,0.010441788260291867,other,132
+242,Original Vanilla Frosting,baking supplies decor,0.01042370665459717,missing,36
+243,Instant Lunch Ramen Noodle Soup Sriracha Chicken,air fresheners candles,0.010420828592523178,missing,14
+244,All Purpose Cleaner Lavender,air fresheners candles,0.010420828592523178,missing,14
+245,Firewood Bundle,more household,0.010387956664251961,missing,46
+246,Omega 3 + DHA Fruit Flavored Gummy Bears,vitamins supplements,0.01031809984343175,other,46
+247,Plain Organic Grassmilk Yogurt Cup,fresh fruits,0.010308643497658048,missing,318
+248,Italian Sweet Creme Creamer,cocoa drink mixes,0.010299642252176958,other,349
+249,Chicken Nugget Meal With Macaroni & Cheese,frozen juice,0.010239459501868699,missing,9
+250,Jvle Garlic Herb Fg Chicken Breast,first aid,0.010222191934290992,missing,4
+251,Purely Natural Hand-Flaked Salmon Treats Cat Treats,cat food care,0.010187359217328022,missing,10
+252,Ground Oregano,spices seasonings,0.010182521273420899,other,59
+253,Whole Milk Pure Honey Pear,yogurt,0.010173773607225949,missing,121
+254,Organic Cashew Blueberry Boom Drink,refrigerated,0.010172887877376751,missing,98
+255,Vermont White Cheddar Mac & Cheese,frozen meals,0.010089981072067992,missing,45
+256,Rapid Relief Zinc Oxide Diaper Rash Cream,diapers wipes,0.010072727927134697,other,54
+257,Non Alcoholic Lime Margarita Mix,specialty wines champagnes,0.01005800073855902,other,4
+258,Organic Grassmilk Yogurt Wild Blueberry,yogurt,0.010049649483549257,missing,263
+259,Sidecar Orange Pale Ale,beers coolers,0.010041928905068677,missing,3
+260,Pressed Pineapple Banana Kale Bar,energy granola bars,0.009991751214835358,missing,52
+261,Organic Pink Lady (Cripps) Apple,fresh fruits,0.009989918705845056,missing,296
+262,Greek Yogurt Flip Smore Smore's Sweet Vanilla Low Fat,yogurt,0.009987709087703352,missing,98
+263,Limoncello Originale,spirits,0.009986714024553605,other,7
+264,Pizza Mac & Cheese,frozen meals,0.009986281930157489,missing,78
+265,Rainbow Roll,prepared soups salads,0.009979551528804413,other,77
+266,Black Pepper Grinder,spices seasonings,0.009970747340912833,other,106
+267,Lime Grain-Free Tortilla Chips,fresh vegetables,0.009968945090147239,missing,360
+268,Fresh Citrus Antibacterial Hand Soap Moisturizers,body lotions soap,0.009956190812177208,other,23
+269,Hops Hard Apple Cider,red wines,0.00993935614618211,missing,10
+270,Simply Peach,protein meal replacements,0.009896625331298044,missing,5
+271,Herbal Tea Bags Organic Turmeric With Meadowsweet & Ginger 16 Ct,tea,0.009888240508649435,missing,65
+272,Ultimate Intensive Healing Hand Cream,body lotions soap,0.009864459245858746,other,35
+273,Halloween Mixed Fruit Snack,breakfast bars pastries,0.009861191147352866,missing,25
+274,Organic Tamari Almonds,bulk dried fruits vegetables,0.009856921194884193,other,117
+275,Coconut Foot Creme,skin care,0.009837486705471897,other,18
+276,Americone Dream Pint Slices Ice Cream,baking supplies decor,0.009827564880753332,missing,2
+277,Quietude Quick Dissolving Tablets,cold flu allergy,0.009820240185812519,other,71
+278,Lightly Sweet Chai Skinny Latte,cat food care,0.009802790977426248,missing,30
+279,Black Chia Seeds,fresh vegetables,0.009801319897968609,other,266
+280,Baby Eczema Relief Body Creme,baby bath body care,0.00978594919500171,other,21
+281,Water Filtration Pitcher Advanced Replacement Filter,paper goods,0.009774505247380202,missing,226
+282,Peanut Butter Persuasion Cookie,bulk grains rice dried goods,0.0097526171764564,missing,10
+283,Dark Chocolate Malt Balls,dog food care,0.00973664082345026,other,26
+284,Organic Kiwi Bag,fresh fruits,0.00971406871951696,missing,232
+285,"Coldpuree Organic Stage 2 Apple, Sweet Potato, Pineapple and Oat Baby Food",baby food formula,0.009713251350569328,missing,14
+286,Corn Tortillas 24 Count,white wines,0.009705549976681858,missing,71
+287,Organic Red Anjou Pear,fresh fruits,0.009700047195730971,missing,212
+288,Sanitizing Wipes,facial care,0.009687874280188082,other,116
+289,Advanced Refreshing Gel,shave needs,0.00968134507484547,other,28
+290,Organic Coco Whip,soy lactosefree,0.009671682529613711,other,192
+291,Layered Salted Caramel & Dark Chocolate Chewy Bars,breakfast bars pastries,0.009669693478388593,missing,26
+292,Sweet & Sour Cocktail Mix,beers coolers,0.009662850594207474,other,9
+293,Organic Flax Seed,bulk grains rice dried goods,0.009644787429076061,other,108
+294,Tulips,packaged vegetables fruits,0.00961402508351873,other,314
+295,Satsuma,fresh fruits,0.00961338505680057,missing,249
+296,Pipeline Punch,more household,0.009587649857137132,missing,6
+297,Vanilla Passion Candle Jar Candle,air fresheners candles,0.00955084716587952,missing,6
+298,Ginger/Garlic Vegetable Stir Fry Kit,packaged vegetables fruits,0.009550271129803315,missing,241
+299,Easy Ups Boy Training Underwear 4T-5T,breakfast bars pastries,0.009548057271866413,missing,15
+300,100% Grass-Fed No-Grain Strawberry Yogurt,yogurt,0.009544998154446802,missing,280
+301,Organic Emerald Matcha Whole Leaf Tea,tea,0.009529078747486437,missing,62
+302,Body Envy Volumizing Conditioner,facial care,0.009485599932656795,missing,4
+303,Cordon Negro Extra Dry Sparkling Wine,specialty wines champagnes,0.009482774036552517,missing,18
+304,Organic Breakfast Blend Coffee,fresh fruits,0.009476739849594424,other,398
+305,Deluxe Nut Mix,fresh dips tapenades,0.009468691199941167,other,244
+306,Kalifornia Kolsch,beers coolers,0.009467621366623019,missing,6
+307,Organic Garam Masala,spices seasonings,0.009431361971044955,other,136
+308,Green House Grown Miraculously Sweet Tomatoes,fresh fruits,0.00942368250912668,missing,227
+309,Tasters Choice Stick Columbian,kosher foods,0.009420635362616624,missing,17
+310,Organic Guten Free Millet Flour,baking ingredients,0.009394540872172449,missing,36
+311,Organic Vanilla Grassmilk Yogurt,fresh fruits,0.009390052646123939,missing,274
+312,Spring Water Refill Liquid Hand Soap,paper goods,0.009383060047800668,other,109
+313,Echinacea + Vitamin C & Zinc Gummy Bears,vitamins supplements,0.009367849908715914,other,41
+314,Beef Chuck Roast,soup broth bouillon,0.009348785153789466,other,159
+315,Baby Eczema Therapy Soothing Bath Treatment,baby bath body care,0.00934267769439323,other,36
+316,The Ultimate Margarita,spirits,0.009341715574892476,other,8
+317,Organic Sprouted Almonds,skin care,0.00933265933227516,missing,5
+318,Good Glide Personal Lubricant With Aloe Vera,skin care,0.00933265933227516,other,5
+319,Organic Tea Tree Oil,skin care,0.00933265933227516,other,45
+320,Treat Diaper Rash Cream,first aid,0.009331541849264238,other,30
+321,H2O Closer Personal Lubricant,cat food care,0.009299744074564553,other,12
+322,Low Fat Peach Greek Yogurt Drink,cat food care,0.009299744074564553,missing,12
+323,Coffeemate Bliss Salted Caramel Coffee Creamer,cream,0.009296843677679046,missing,102
+324,Unscented Foot Cream,beauty,0.009255292648419105,other,8
+325,Aplwd Chicken Strips,kitchen supplies,0.009246584018191365,missing,12
+326,Baby Nighttime Tiny Cold Syrup,cold flu allergy,0.009214590182539163,other,14
+327,Original Diaper Rash Ointment,first aid,0.009200691572971506,other,79
+328,Systemsupport Sleepthru 30 Vegetarian Liquid Phyto Caps,vitamins supplements,0.009174106822246904,other,19
+329,Liquid Personal Lubricant and Moisturizer,shave needs,0.009164097579280689,other,20
+330,Ultimate Care Hand Cream With Baobab Oil,first aid,0.009143006417649887,other,5
+331,SleepGels Nighttime Sleep Aid,cat food care,0.009079299481045902,other,185
+332,Crushed Chili,spirits,0.009062795303472773,other,34
+333,Sunscreen SPF 50+,baby food formula,0.009055610277821398,other,95
+334,Heel Balm,skin care,0.009036308542432234,other,12
+335,Caramelized Pecans,packaged vegetables fruits,0.009022861506185736,other,219
+336,Original Liquid Coffee Creamer,coffee,0.009012873147406097,other,223
+337,Organic Supreme Fruit & Nut Mix,granola,0.009004928821316099,other,140
+338,Alimentum Hypoallergenic Powdered Infant Formula With Iron,diapers wipes,0.008992020424829295,missing,14
+339,Baby Diaper Rash Ointment,baby bath body care,0.008988968316207744,other,14
+340,French Wine Aperitif,white wines,0.00898873115903502,other,24
+341,Whole Cumin,spices seasonings,0.008987102592012002,other,50
+342,Ginger Lemon Kombucha,tea,0.008982313186289184,missing,157
+343,Sandwich Vanilla Yogurt Creme Breakfast Biscuits,breakfast bars pastries,0.008968838094472428,missing,17
+344,Sparkling Apple,soft drinks,0.008963198709467463,missing,58
+345,Fruities Apple Sweet Potato Pineapple,canned fruit applesauce,0.008962819039686747,missing,16
+346,Large Biodynamic Eggs,frozen breads doughs,0.00893119193309547,missing,8
+347,Vitamin Code Kids Cherry Berry Chewables,vitamins supplements,0.008919725574843263,other,38
+348,Maximum Strength Zinc Oxide Diaper Rash Paste,diapers wipes,0.008901646066550629,other,28
+349,Strawberry Shampoo,frozen juice,0.008867632049640247,missing,3
+350,Kids Toothpaste Berry Smart,oral hygiene,0.008866822941845195,other,74
+351,Super Glue,more household,0.008863785428487926,missing,78
+352,Shea Butter Cream Oil Body Lotion,body lotions soap,0.008842261805399244,missing,9
+353,"Detoxificant, No. 7",vitamins supplements,0.008836405087467504,other,8
+354,Northwest Berry Blend,energy sports drinks,0.008828693975089385,missing,20
+355,Children's Chestal Homeopathic Medicine,cold flu allergy,0.008820840075948461,other,88
+356,Margarita Simple Cocktail Mixer,spirits,0.00880745390789661,other,9
+357,Early Result Pregnancy Test,feminine care,0.008803345907287987,other,375
+358,Expert Shapers For Hard Nails,eye ear care,0.008794799238077378,other,6
+359,Broccoli  Bunch,fresh vegetables,0.008789730967548785,missing,188
+360,Duos Natural Rotisserie Chicken Flavor Cat Treats,cat food care,0.00876788279789868,missing,6
+361,Bareskin Premium Lubricant Condoms Sensitivity,eye ear care,0.008736747123543361,other,38
+362,Vegetable Juice,packaged produce,0.008719144691053839,missing,122
+363,Mini Cupcakes,kitchen supplies,0.008717763016099027,missing,6
+364,Organic Powerful Peanut Protein Bar,bakery desserts,0.008714981660037592,missing,10
+365,Fruities Pear Mango Squash,baby food formula,0.00871361429414255,missing,15
+366,12 Year Old Highland Single Malt Scotch Whisky,beers coolers,0.008696565534786727,missing,4
+367,Organic Original Coconut Non-Dairy Beverage,fresh fruits,0.008694592024237715,missing,216
+368,Melatonin NutraSpray Sublingual Orange Flavor,skin care,0.00868180442467687,other,52
+369,Zero Calorie Tonic Water,soft drinks,0.008681275269192906,other,155
+370,Magnum Thin Lubricated Condoms,facial care,0.00865912842430935,other,30
+371,Cherry Nighttime Instant Teething Pain Relief Gel,muscles joints pain relief,0.008658495459541641,other,3
+372,Sensitive Skin Experts Micellar Cleansing Oil,muscles joints pain relief,0.008658495459541641,missing,3
+373,Infants' Ibuprofen 50mg White Grape Flavored Concentrated Drops Fever Reducer/Pain Reliever,diapers wipes,0.008651586765750348,other,49
+374,Organic Raw Walnut Halves,kitchen supplies,0.008638147074315348,other,55
+375,Ultra Thin Armor Spermicidal Lubricant Condoms,body lotions soap,0.008606425656492766,other,38
+376,Organic Gluten Free Whole Grain Chicken Nuggets,feminine care,0.008596645834804219,missing,13
+377,Organic Pink Lady (Cripps) Apple Bag,packaged vegetables fruits,0.008556840831341455,missing,227
+378,Raise The Roots Kombucha,refrigerated,0.008544086681376267,missing,93
+379,Hazelnut Creamer,cream,0.00853880036736322,other,90
+380,Mixed Berry Drink,yogurt,0.008535527837609296,missing,84
+381,Suiza Enchilada,frozen meals,0.008533009938300617,missing,52
+382,Stuffed Hashbrowns Meat Lovers,spirits,0.008527780576943252,missing,15
+383,Tender Cuts in Gravy With Real Turkey & Venison Wet Dog Food,mint gum,0.008516500469668781,missing,3
+384,Oven Baked Original Potato Crisps,chips pretzels,0.008504099610637462,missing,102
+385,Strike On Box Matches,paper goods,0.008488910204600802,other,186
+386,Sesame Street Bright Banana Apple Baby Tooth & Gum Cleanser + Toothbrush,facial care,0.008484178502715208,other,20
+387,Almond Milk Vanilla Yogurt,soy lactosefree,0.008483089456597545,missing,225
+388,Jerky Strip Chicken Apple,deodorants,0.008480059265645294,missing,4
+389,Sunset Blush,red wines,0.008468459328531311,other,27
+390,Classic Lime Margarita,beers coolers,0.008462343245043358,other,23
+391,New Orleans Nitro Cold Brew Coffee,coffee,0.008458291501137225,missing,101
+392,Menthol Cough Drops,cold flu allergy,0.008445311401896532,missing,6
+393,Fresh 'n Clean Sliced Mushrooms,packaged cheese,0.008436514923597354,missing,202
+394,Gelous Grip Hairbrush Frizz-Free + Anti-Static Smoothing,hair care,0.00842019225576675,missing,5
+395,Roasted Salted Pistachios,fresh fruits,0.008419289035785373,other,225
+396,Hearty Lentil With Vegetables Soup With Chickenpeas & Roasted Garlic,cocoa drink mixes,0.008391386801846321,missing,7
+397,Thins Original,cookies cakes,0.00838722939749425,missing,63
+398,3mg Melatonin Dietary Supplement Tablets - 240 CT,cat food care,0.008385296842213239,other,41
+399,Leafy Romaine,salad dressing toppings,0.008372004615336721,missing,111
+400,Carob Spirulina Energy Chunks,fresh fruits,0.008369712156267682,other,199
+401,Peppermint Foot Lotion,shave needs,0.00836563827225087,other,6
+402,Pro Sensitive Non GMO Infant Formula Powder,baby accessories,0.00834467331095122,missing,16
+403,Tape,more household,0.008303148338870999,other,8
+404,Organic Mango Beet Berry Smoothie Kickstart,frozen produce,0.008301520867665228,missing,33
+405,Original Diaper Rash Ointment & Skin Protectant,frozen dessert,0.00827659429947213,other,7
+406,Frozen Roasted Corn,air fresheners candles,0.00827127627331427,missing,8
+407,Dory Blueberry Bubbles,frozen dessert,0.008258181386120262,missing,50
+408,Organic Sweet Potato (Yam),fresh vegetables,0.00824222502549925,missing,134
+409,Fit Kitchen Teriyaki Chicken,frozen meals,0.008218552568292136,missing,18
+410,Sea Salt Caramel Baking Chips,specialty wines champagnes,0.008212323214001983,missing,6
+411,Cream Sherry,specialty wines champagnes,0.008212323214001983,other,6
+412,100% Pure Organic Coconut Water,frozen juice,0.008209831988944209,missing,14
+413,Veggies First Pumpkin Banana Puree,baby food formula,0.008209195706181177,missing,10
+414,Caramel Almondmilk Creamer,soy lactosefree,0.008208057541541464,missing,141
+415,Latin Fiesta Snack Trays,packaged meat,0.008208003458656394,missing,4
+416,"Special K Crustless Quiche Sausage, Quinoa, Peppers, Mozzarella & Asiago",first aid,0.008195987134277334,missing,14
+417,French Lavender Organic Whole Milk Yogurt,kosher foods,0.00818310564889251,missing,69
+418,Greener Masking Tape,more household,0.008153245450036553,missing,59
+419,Mexican Style Chicken Bowl,frozen meals,0.008132457244971789,missing,43
+420,Assorted Fruit Flavor Gumdrops,cat food care,0.008117482126744593,missing,7
+421,Advanced Care Beauty Finish Antiperspirant Deodorant,body lotions soap,0.008104066807571786,missing,21
+422,Plain Water Seltzer,packaged produce,0.008103455432231316,missing,44
+423,Mochi Mango Ice Cream,spirits,0.008090163002785637,missing,6
+424,Veggie Made Riced Cauliflower Lightly Sauced with Savory Herb,kitchen supplies,0.008071080225358258,missing,7
+425,Honeysuckle Scented Fabric Softener,cleaning products,0.008069666234909591,missing,21
+426,Organic Vanilla Soy Milk,packaged meat,0.008068027240469735,missing,46
+427,Natural Hand Selected Chicken Cat Treat Packs,cat food care,0.008053814617266708,missing,4
+428,Magic Velvet Mango Organic Food Smashup,baby food formula,0.0080433362715162,missing,15
+429,Moderate Absorbency S/M for Women Underwear,body lotions soap,0.008020945976369624,other,28
+430,Swisspers Triple Size Cotton Balls,facial care,0.008016795141737419,other,35
+431,Water Limonatas,soft drinks,0.007962358532469186,missing,30
+432,Unsweetened Lemon Flavor Real Brewed Tea,body lotions soap,0.00795803562485932,missing,4
+433,Organic Whole Milk Yogurt Tubes Berry Patch & Strawberry Banana,breakfast bars pastries,0.007926580403632174,missing,97
+434,Traditional Panettone,fresh vegetables,0.00791552891675827,other,216
+435,Honey & Lemon Alcohol Free Formula Kids Cough Syrup,cold flu allergy,0.007909758833405396,other,19
+436,Apricot Pear Carrot Beet Bar,energy granola bars,0.007883214655714676,missing,28
+437,Whole Raw Brazil Nuts,fresh vegetables,0.007864402277885653,other,111
+438,Pill Pouches Chicken Flavor,dog food care,0.007849930792126182,missing,10
+439,Blueberry Drinkable Whole Milk Yogurt,yogurt,0.007846475081591538,missing,105
+440,Zero Peach Nutrient Enhanced Water Beverage,energy sports drinks,0.007834960742551167,missing,17
+441,Rescue Natural Sleep Liquid Melts,refrigerated pudding desserts,0.007834198573749505,other,25
+442,Pea & Spinach Teether Wafer,baby food formula,0.007827160993639304,missing,11
+443,Wooden Foot File,skin care,0.007825672754180647,other,16
+444,Vegetable Pizza,mint gum,0.007822905204323173,missing,8
+445,Ibuprofen Infants' Berry Pain Reliever/Fever Reducer,cold flu allergy,0.007818839044714114,other,7
+446,Strawberry Nonfat Yogurt,cookies cakes,0.007808799783873958,missing,28
+447,Baby Powder,baby bath body care,0.007806486880269872,other,33
+448,Chewy Chocolate Chip,air fresheners candles,0.0077982340559038885,missing,1
+449,PM Pain Reliever and Nighttime Sleep Aid Caplets,air fresheners candles,0.0077982340559038885,other,25
+450,Organic Sriracha Roasted Seaweed Snacks,fruit vegetable snacks,0.007788924235620124,missing,49
+451,Uncured Turkey Bologna,kosher foods,0.0077857759233509955,missing,14
+452,Bagged Red Potatos,baking supplies decor,0.007776125260078733,missing,115
+453,5-HTP 100 Mg Vegetarian Capsules,vitamins supplements,0.007776036476971404,other,50
+454,Original Blue Painter's Tape,more household,0.007767832358509493,other,65
+455,Vaginal Gel,feminine care,0.007748911838597636,other,9
+456,Low-Fat Chicken Noodle Soup,prepared soups salads,0.007748598434223514,missing,38
+457,Cuticle Rehab,facial care,0.007744959913062542,other,6
+458,Premium Lubricant Condoms ENZ,deodorants,0.007741199581291036,other,30
+459,Smooth Refried Beans,first aid,0.007727250774886936,missing,7
+460,Crayons - 24 CT,more household,0.007721771108267353,missing,37
+461,Black Ink 1.4 mm Ball Point Pens,more household,0.007721771108267353,missing,37
+462,Oat of This Swirled Buttery Brown Sugar Ice Cream,digestion,0.0077134841832475695,missing,6
+463,Golden Kiwi,fresh fruits,0.0077041784396677145,missing,131
+464,Polenta,packaged cheese,0.007700124376055403,other,173
+465,Mach3 Razor Replacement Cartridges,shave needs,0.007684329427392334,missing,16
+466,Mojito,frozen juice,0.007679594626401524,other,4
+467,Chocolate Fudge Brownie Slices Ice Cream,frozen juice,0.007679594626401524,missing,4
+468,"Camilia, Single Liquid Doses",diapers wipes,0.00767225403655004,other,130
+469,Falafel,fresh vegetables,0.007666221166840437,other,124
+470,"Popped Snack Bites, Salted Caramel Bites",granola,0.007638666042456698,missing,19
+471,Top Shelf Margarita Mix,spirits,0.007627478826898995,other,3
+472,Medium Blue Ball Point Pens,more household,0.007619491478392906,missing,38
+473,Cheese Tortellini Bowls,frozen meals,0.007617521089500364,missing,29
+474,Buttery Spray,eye ear care,0.007616519561359034,missing,18
+475,"Sweet Balanced Breaks Monterey Jack Natural Cheese, Dried Cranberries & Dark Chocolate Covered Peanuts Snacks",eye ear care,0.007616519561359032,missing,8
+476,Platinum Fresh Scent ActionPacs Dishwasher Detergent,eye ear care,0.007616519561359032,missing,8
+477,Cherry/ Apple/ Chia Fruit Bar,energy granola bars,0.007615908903136231,missing,30
+478,Organic Classic Hazelnut Spread,bulk dried fruits vegetables,0.007615636025649158,missing,4
+479,3 Day Cleanse Total Body Reset Advanced Herbal Formula Capsules,protein meal replacements,0.007607024902341151,missing,64
+480,Greek Yogurt Flip Carrot Cake Creation,yogurt,0.0076056365801592035,missing,49
+481,Wavy Original Potato Chips Party Size,packaged meat,0.007588301881890102,missing,13
+482,Yogurt Mint Sauce,indian foods,0.00756716340671105,other,33
+483,Cinnamon Roll Fudge Stripes Cookies,beauty,0.007556914802919718,missing,3
+484,Chlorofresh Liquid Chlorophyll,vitamins supplements,0.007552754295256712,other,53
+485,Tahini Sesame Paste,canned meals beans,0.007549580822918274,other,96
+486,Latte Nitro Cold Brew Coffee With Almond Milk,coffee,0.007516225239140461,missing,83
+487,Rhodiola Rosea,vitamins supplements,0.007497938350391496,other,16
+488,Savory Cracker Mix,breakfast bars pastries,0.007488936795944395,missing,59
+489,Natural Body & Foot Powder with Tea Tree Oil & GSE,baby bath body care,0.0074741421555145834,other,9
+490,Elderflower Cordial,baby bath body care,0.0074741421555145834,other,9
+491,Whole Oregano,spices seasonings,0.0074573579464338935,other,110
+492,Banana on the Bottom Greek Yogurt Low-Fat Yogurt,yogurt,0.007455015000686284,missing,51
+493,100% Probiotics Pineapple Mango Juice,shave needs,0.007454894562630746,missing,17
+494,Natural Bliss Chocolate Flavored Liquid Non Dairy Coffee Creamer,cat food care,0.007445754247599102,missing,13
+495,Spongebob Squarepants Go Gurt Strawberry & Cotton Candy Low Fat Yogurt Value Pack,breakfast bars pastries,0.007426266767007211,missing,15
+496,Double Ecstasy Lubricated Condoms,oral hygiene,0.007415653683572183,other,16
+497,Diet Cranberry Pineapple Juice Drink,canned fruit applesauce,0.007405407760165871,missing,15
+498,Rapini (Rabe),spirits,0.0074041870034731415,missing,39
+499,Pasta Shapes In Tomato Sauce,cocoa drink mixes,0.007400507544211669,missing,1
+500,Custard Yogurt Blueberry,breakfast bars pastries,0.007379675893183627,missing,31
+501,100% Pure Peppermint Oil,skin care,0.007378115029103923,other,8
+502,Tranquil Rose Massage Oil,skin care,0.007378115029103923,other,8
+503,Mandarin Orange Kiwi,protein meal replacements,0.007376508996209601,missing,9
+504,Ultra Ribbed Premium Lubricant Condoms Stimulations,body lotions soap,0.007357206537794715,other,13
+505,Cw Aerosol Rich & Creamy,feminine care,0.007351263239343475,missing,10
+506,Wipe Fresh Pet Wipes,facial care,0.007347514113593192,other,15
+507,Sweet Potato Apple & Pumpkin Purees-Veg/Fruit Blend-WIC,baby food formula,0.007342527855848201,missing,8
+508,Coffee Chocolate Chunk Greek Nonfat Yogurt & Cinnamon Crisps Dippers,kosher foods,0.007340499936267256,missing,7
+509,Dried Porcini Mushroom,frozen dessert,0.0072992700729927005,other,1
+510,Original Hot Cereal,frozen dessert,0.0072992700729927005,missing,4
+511,Liquid Melatonin Natural Black Cherry Flavor,vitamins supplements,0.007295998368250446,other,23
+512,All Purpose Precision Tip 2 Pack,cleaning products,0.007292779244591243,other,85
+513,Organic English Seedless Cucumber,fresh vegetables,0.007289916233667318,missing,114
+514,Lavender & Chamomile Hand Soap,body lotions soap,0.0072832628868505014,other,26
+515,"Immunity Health, Gummy Bears",vitamins supplements,0.007274068657184372,other,17
+516,Cold Pressed Watermelon & Lemon Juice Blend,refrigerated,0.00726749136786687,missing,54
+517,Toasted Coconut Greek Nonfat Yogurt Honey Oat Crisps Dippers,breakfast bars pastries,0.007263453261322876,missing,8
+518,Nacho Grain-Free Tortilla Chips,fresh vegetables,0.0072608615917474,missing,185
+519,Kale Chicken Ceasar Bowl Non Gmo,red wines,0.00725867942445541,missing,12
+520,Spiral Sliced Hickory Smoked Ham,canned fruit applesauce,0.007244560379365466,other,12
+521,Probiotics Peach Passion Fruit Juice,frozen juice,0.007240391249456386,missing,18
+522,Deep Woods Insect Repellent VII,first aid,0.007228181235327592,other,18
+523,Mega Mix Box,first aid,0.007228181235327591,missing,8
+524,Raisin Bran Granola,first aid,0.007228181235327591,missing,2
+525,Wondrous Autumn Nights Candle,first aid,0.007228181235327591,missing,8
+526,Organic Insect Repellent Fresh Natural Scent,first aid,0.007228181235327591,other,8
+527,Ultra Bath Tissue Rolls,first aid,0.007228181235327591,missing,2
+528,Salted Caramel Bar,hot cereal pancake mixes,0.007222384501687517,missing,19
+529,Light & Fit Blueberry Yogurt,canned fruit applesauce,0.007214930151396823,missing,20
+530,Esterelle Rose,red wines,0.007210766825440093,other,19
+531,Vanilla Whole Milk Drinkable Yogurt,yogurt,0.00721053857599509,missing,121
+532,Artichoke,fresh vegetables,0.007198395512137815,missing,122
+533,Toasted Coconut Breakfast Biscuits Packs,cat food care,0.007174908322477124,missing,14
+534,Special K Caramel Nut Flavor Protein Bites,facial care,0.007170439559445973,missing,7
+535,Kings Hawaiian Smoked Bacon Bbq Sauce,marinades meat preparation,0.007167890954079658,missing,12
+536,The Purple Edition Sugarfree Acai Berry Energy Drink,frozen breads doughs,0.007144953546476377,missing,2
+537,Rescue Sleep,vitamins supplements,0.00714238119828512,other,24
+538,Grain Free Cassava & Chia Tortillas,tortillas flat bread,0.007130542260255489,missing,141
+539,Authentic Margaritas Classic Lime,red wines,0.0071278816945683,other,7
+540,Organic Five Cheese Pasta Sauce,body lotions soap,0.007117883449820181,missing,5
+541,Athlete's Foot Clotrimazole Antifungal Cream,first aid,0.0071178208426024665,other,33
+542,Spicy Black Bean Veggie Burger,specialty wines champagnes,0.007112080527414386,missing,2
+543,Unsweetened Macadamia Milk,soy lactosefree,0.00710829643029446,missing,122
+544,Parmesan Garlic Flavored Popcorn,more household,0.0070809486954167755,missing,11
+545,Soft White 29 Watt Halogen Bulbs,more household,0.0070809486954167755,missing,11
+546,Premium Chocolate Chunk Brownie Mix,doughs gelatins bake mixes,0.0070776103137501715,missing,27
+547,Plain Organic Kale Krunch,vitamins supplements,0.0070691240699740044,missing,50
+548,Custard Yogurt Strawberry Flavored With Other Natural Flavor,breakfast bars pastries,0.007046584706628541,missing,34
+549,"Organic Stage 2 Banana, Carrot & Cranberry",baby food formula,0.007044444894275373,missing,11
+550,Inari,spirits,0.007041583059122166,other,22
+551,Melatonin 3 mg Tablets,vitamins supplements,0.007040092636964436,other,61
+552,Salted Mixed Nuts,cream,0.00703036919398481,other,158
+553,Crossovers Lemon with Shortbread Crumble Low-Fat Greek Yogurt,prepared soups salads,0.0070256990433130075,missing,26
+554,Classic Mouthwash,ice cream toppings,0.007023123070965085,missing,8
+555,Chicharrones Fried Pork Rinds With Jalapeno Cheddar,chips pretzels,0.00700659977080924,missing,70
+556,Horseradish Bloody Mary Mix,spirits,0.0070062866811693575,other,8
+557,Milano Slices Peppermint Cookies,cookies cakes,0.007003446369947774,missing,13
+558,Mint Frozen Greek Yogurt Sandwiches,more household,0.007001829466953586,missing,5
+559,Fingernail Clipper With File,beauty,0.006996343616811805,other,14
+560,Honey Thats Nuts,yogurt,0.006983271753836418,missing,68
+561,Advanced Care Invisible Sheer Fresh Deodorant,air fresheners candles,0.006974952581381996,missing,5
+562,Sparkling Spruce Timeless Joy Holiday Candle,air fresheners candles,0.006974952581381996,missing,20
+563,100% Pure Tea Tree Oil,air fresheners candles,0.006974952581381996,other,5
+564,Organic Vanilla Lightly Sweetened Almond Milk,protein meal replacements,0.006959414275802408,missing,91
+565,Kb Clb Stick Organic Fmly,baking supplies decor,0.006949137769731446,missing,1
+566,Beefy Grande Stuffed Nachos,frozen appetizers sides,0.006937171853788989,missing,18
+567,Smoked Turkey Rope Sausage,packaged poultry,0.006931626018635444,missing,96
+568,Chocolate Mint Candy Canes,candy chocolate,0.006922797804773345,missing,21
+569,Organic Sparkling Apple Peach  Juice,juice nectars,0.006921487239818245,other,49
+570,Brownie Crunch High Protein Bars,frozen meals,0.006914564093108653,missing,74
+571,DreamWalk Ultra Overnight Foot Cream,cold flu allergy,0.006895567884518459,other,4
+572,Itlalian Sausage Lasagna,prepared meals,0.006891761115798664,missing,24
+573,Paso Robles Cabernet Sauvignon,red wines,0.006886187935883763,missing,30
+574,Lasagna & Meat Sauce,frozen meals,0.0068846266131815355,missing,15
+575,Strawberry Dairy-Free Probiotic Drinkable Cashewgurt,fresh fruits,0.006884025236021576,missing,140
+576,Magnum BareSkin Condoms,shave needs,0.006873073184460517,other,20
+577,Cranberry Air Effects Fresh Twist Air Freshener,frozen juice,0.006868838249710363,missing,5
+578,Aged Cheddar,frozen juice,0.006868838249710363,missing,5
+579,Yakisoba Teriyaki Chicken Flavor Noodles,frozen juice,0.006868838249710363,missing,5
+580,Original Berry Flavor Infant Drops,baby food formula,0.006868305897356963,other,28
+581,Honey Almond Butter W/ Pretzels,kosher foods,0.006866408952287006,missing,2
+582,Gluten Free Fig Bars,fresh fruits,0.006864745871197074,other,154
+583,Pasilla Pepper (Chile Negro),red wines,0.006858807358518024,missing,21
+584,Maximum Absorbency L for Women  Underwear,feminine care,0.006855088317328056,other,46
+585,Soft Baked Minis Snack Packs Double Chocolate Brownie - 6 PK,energy granola bars,0.006853968329481166,missing,60
+586,Microwave Garlic And Parsley Potato Kit,cat food care,0.006833888316346353,missing,50
+587,Honeysuckle Clean Day 2X Liquid Laundry Detergent,cleaning products,0.006831194841411808,missing,62
+588,Melatonin+ 200mg L-Theanine Dietary Supplement Liquid Softgels,shave needs,0.006830515046570964,other,9
+589,Quiche Ham/Cheese/Quinoa/Pepper,first aid,0.0068147946228606605,missing,9
+590,Potato Chips Regualr Party Size Original,deodorants,0.006799173512481969,missing,14
+591,Fresh Whole Mushrooms,frozen juice,0.006793766725159663,missing,46
+592,Cold Brew Baridi Black,coffee,0.006793256626494308,missing,148
+593,Slide Easy Clean-Up Clumping Non-Stop Odor Control Cat Litter,cat food care,0.006791572811552015,missing,10
+594,Simply Sleep Nighttime Sleep Aid,soft drinks,0.006783901062137526,other,45
+595,Stuffed Hash Browns Sausage &  Cheese,frozen meals,0.006783897846049045,missing,33
+596,100% Natural Plain Baked Coconut Chips,muscles joints pain relief,0.0067826276716502765,missing,11
+597,Ant Killer Liquid,more household,0.0067794922296238996,other,12
+598,Ovulation & Pregnancy Ovulation Test Kit,protein meal replacements,0.00677575617141122,other,6
+599,100% Cauliflower & Sweet Potato Riced Veggies,canned fruit applesauce,0.0067752543500245385,missing,28
+600,Famous Fries,frozen meat seafood,0.00676308312430163,missing,8
+601,Thick Sliced Bologna,frozen meat seafood,0.00676308312430163,missing,8
+602,Chocolate Vanilla Malt Custard,fresh pasta,0.00676235716541055,missing,41
+603,Soft Peach S-M Underwear for Women Maximum Absorbency,body lotions soap,0.006752617146314578,other,50
+604,Snacking Lupini Beans Hot Pepper,bakery desserts,0.006750595766365734,missing,6
+605,Nourish Bowls Sesame Sriracha,cat food care,0.006750369765075261,missing,31
+606,Mix Spinach,eggs,0.006744716992125472,missing,115
+607,Organic Strawberry Thirst Quencher,eye ear care,0.00673796725931289,missing,23
+608,Baiocchi,specialty cheeses,0.006734524825348801,other,56
+609,Platinum ActionPacs Dishwasher Detergent,mint gum,0.006732884794511773,missing,30
+610,Organic Classic Original Hummus,fresh fruits,0.006730118533886957,missing,116
+611,Pull‑Ups Girls Learning Designs Training Pants 4T-5T,diapers wipes,0.006729011928916937,missing,16
+612,Harvest Breakfast Fruit‑Filled Strawberry Squares,diapers wipes,0.006729011928916937,missing,16
+613,Peanut Butter Breakfast Squares,breakfast bars pastries,0.006709690713073647,missing,6
+614,Toe Nail Clip,hair care,0.006709369786792216,other,14
+615,Mixed Melon Spears,shave needs,0.006707432622095627,missing,21
+616,Chilled Orange Strawberry Banana Juice,canned fruit applesauce,0.006707159613232408,missing,14
+617,Organic Maple Sugar,vitamins supplements,0.006706359937031209,other,5
+618,Crayons,beauty,0.006703478598131688,other,61
+619,Boneless Pork Tenderloin,frozen dessert,0.006698269602060197,other,76
+620,Mushroom,packaged poultry,0.006686911848168667,missing,78
+621,Kick It Immune For Kids Drops,vitamins supplements,0.00667969438436142,other,14
+622,Bone Broth Protein Turmeric,vitamins supplements,0.00667969438436142,missing,14
+623,Rescue Remedy for Kids,vitamins supplements,0.00667969438436142,other,14
+624,Gourmet Fiesta Flatbread Pizza Pizza Wrap,frozen pizza,0.006651468606854401,missing,8
+625,Cheddar Cheese Potato Crisps,air fresheners candles,0.006650356348109706,missing,22
+626,Apple Kombucha,tea,0.006641162797873111,missing,45
+627,Calms Forte Sleep Aid Tablets - 100 CT,cold flu allergy,0.006635263290570118,other,27
+628,Complete All in 1 Lemon Scented Action Packs With Dawn,frozen meat seafood,0.006626441097026742,missing,3
+629,Naturals Children's Sleep Melatonin Supplement,cold flu allergy,0.006625047328713546,other,39
+630,Quick Dry White Correction Fluid,mint gum,0.006623399696396629,other,31
+631,Milk Chocolate Coconut Bar,candy chocolate,0.006620839705032527,other,20
+632,Yakisoba Spicy Teriyaki Beef Flavor Noodles,poultry counter,0.006619232190957027,missing,9
+633,Dippers Chipotle Ranch Greek Yogurt & Tortilla Chips,cocoa drink mixes,0.006619215174742929,missing,5
+634,Nasal Aspirator,baby bath body care,0.006612012839933097,other,46
+635,Simply 100 Crunch Vanilla Coconut Macaron Non-Fat Greek Yogurt,packaged meat,0.006599483090982463,missing,11
+636,Granola Cups Almond Butter,breakfast bars pastries,0.006598411178064546,missing,19
+637,Scratch Free Sponges,eye ear care,0.006596099428558033,missing,24
+638,Blueberry Nonfat Yogurt,refrigerated pudding desserts,0.006594779686500303,missing,18
+639,"Detox, Bentonite, Great Plains",digestion,0.00657808141386421,other,33
+640,Black Cherry Ginger Ale,cat food care,0.00657591209842401,missing,6
+641,Colored Pencils,body lotions soap,0.006558721568126604,missing,53
+642,Espresso Chocolate Creamer,diapers wipes,0.0065495392674885565,missing,38
+643,Dark Chocolate Cold Brew,coffee,0.0065489120540376524,missing,13
+644,Simply 100 Crunch Caramel Pecan Turtle,cocoa drink mixes,0.006546871853145854,missing,46
+645,Loin Filet Applewood Bacon,canned fruit applesauce,0.006545517555830963,missing,30
+646,Extreme Clumping Cat Litter Hawaiian Aloha Scent,beauty,0.006544480193563151,missing,4
+647,Organic Vibrant Probiotic Fruit Juice,beauty,0.006544480193563151,missing,4
+648,Classics Baby Binks Easter Chocolate Bunny,beauty,0.006544480193563151,missing,4
+649,Vanilla Chai Naturally Derived Hand Wash,beauty,0.006544480193563151,missing,4
+650,Watch 2032BP Batteries,beauty,0.006544480193563151,other,36
+651,Eternal Alkaline Water,packaged produce,0.006542514589015568,missing,30
+652,Oral Electrolyte Powder Assorted Flavors,baby food formula,0.006533062040384243,other,57
+653,White Quinoa Veggie Burger,tofu meat alternatives,0.00651404749061921,missing,8
+654,Rubber Bands,more household,0.0065135254467936525,other,13
+655,Chamomile,refrigerated pudding desserts,0.0065017972729315135,other,60
+656,BLUEBERRIES,fresh fruits,0.006496191062221475,missing,112
+657,Lidocaine Patch Max Strength Odor Free,muscles joints pain relief,0.0064938715946562305,missing,12
+658,Organic Eucalyptus Oil,air fresheners candles,0.006488522941530227,other,52
+659,Gold AA Alkaline Batteries,shave needs,0.006479995541764601,other,10
+660,"Steamfresh Chef's Favorites Broccoli, Cauliflower, Carrots with Cheese Sauce",cat food care,0.006475510597952352,missing,11
+661,Original Scent Ultra Dishwashing Liquid,plates bowls cups flatware,0.006473610705873585,missing,6
+662,Sniffle Support Drops Alcohol Free Formula,baby bath body care,0.006472796978171811,other,3
+663,Soft Cream Cheese with Garlic & Herbs,baby bath body care,0.006472796978171811,missing,3
+664,2% Milkfat Lowfat Cottage Cheese Large Curd,refrigerated pudding desserts,0.006461538079198942,missing,3
+665,Compact Emeryl File,body lotions soap,0.006433690481122199,other,17
+666,Plain Dairy-Free Probiotic Drinkable Cashewgurt,fresh fruits,0.006432056452050063,missing,127
+667,Plain Diced Potatoes,canned fruit applesauce,0.006413271245686065,missing,80
+668,Melatonin 1 Mg Peppermint Sublingual Tablets,vitamins supplements,0.006402879758176741,other,103
+669,Children's Grape 24-Hour,cold flu allergy,0.006402374051192367,other,29
+670,Dairy-Free Drinkable Cashewgurt Wild Blueberry Organic,soy lactosefree,0.006402359804072466,missing,103
+671,Baby And Me 2 Tablets,vitamins supplements,0.006394263309974684,other,22
+672,Apple Flavored Finest Yoghurt,yogurt,0.006390012857731101,missing,51
+673,Ultra Oxy Power Degreaser,air fresheners candles,0.00636723144391968,missing,6
+674,Citrus Lemon Disinfectant Bathroom Cleaner,air fresheners candles,0.00636723144391968,missing,6
+675,Strawberry & Banana & Mango,bakery desserts,0.006364522724595211,missing,3
+676,Sour Cream and Onion Flavored Potato Chips,specialty wines champagnes,0.006361238208300451,missing,10
+677,Honey Bunches of Oats With Almonds,cereal,0.00635914796733478,missing,44
+678,"Stage 2 Apple, Squash & Zucchini",baby food formula,0.006358815651159428,missing,6
+679,Training Pants Disney Night-Time 3T-4T,diapers wipes,0.0063583186189647345,missing,28
+680,Wave Zig Zag Toothbrush,oral hygiene,0.006356274585919014,missing,4
+681,Sriracha Baked Beans,cleaning products,0.006353214508630208,missing,7
+682,Super Green Tea Lean Green for Weight Loss Dietary Supplement,beauty,0.00634907837713496,missing,17
+683,Propolis Eucalyptus Manuka Honey Lozenge,refrigerated pudding desserts,0.006345104432950438,missing,7
+684,Sugar Free Caramel Coffee Hard Candies,candy chocolate,0.006344848992249594,missing,16
+685,100% Lactose Free Milk Vitamin D,canned fruit applesauce,0.006337670121510398,missing,8
+686,Apple Frank Organic Beef,fresh vegetables,0.006316897288051099,missing,91
+687,Whole Cultured Buttermilk,baking ingredients,0.006307892950401425,missing,33
+688,Shreds Green Leaf Salad,latino foods,0.006303903009025196,missing,30
+689,"Platinum Our Best Clean, Sparkling Silverware & Dishwasher Detergent",digestion,0.006298033462661733,missing,4
+690,Rainbow Salad,prepared soups salads,0.006293666283240445,missing,10
+691,Organic Finely Shredded Sharp Cheddar Cheese,white wines,0.0062908013641976655,missing,1
+692,Bin No. 27 Finest Reserve Porto,red wines,0.006286200779505793,other,4
+693,"2nd Foods Carrot, Pear & Blackberry Baby Food",red wines,0.006286200779505793,missing,4
+694,Organic Insecticide Ant & Cockroach Killer,more household,0.006276590172437636,other,14
+695,Control GX Gray Reducing Shampoo,hair care,0.0062760407558372505,missing,1
+696,Organic Cinnamon Rolls With Icing,shave needs,0.006274228704188152,missing,96
+697,Complete Dawn Fresh Scent ActionPacs,frozen juice,0.006270362755367783,missing,6
+698,Picture & Frame Hanging Strips,frozen juice,0.006270362755367783,missing,6
+699,Queso Stuffed Nachos,frozen appetizers sides,0.006269095247217503,missing,30
+700,Lndbrg Wht Jasm Rice 8 Z,fruit vegetable snacks,0.006267589986531962,missing,116
+701,L-Theanine  Vegetarian Capsules,vitamins supplements,0.00624828195865958,other,16
+702,Purple Asparagus,vitamins supplements,0.006245233272477276,missing,41
+703,Mighty Dinos Cheddar Organic Baked Crackers,baby food formula,0.006244233011080283,missing,14
+704,Candles Birthday White,air fresheners candles,0.006243584111559231,other,39
+705,Paper Towels 2x More Absorbent White,laundry,0.006238856671512895,missing,26
+706,Organic Red Lentil Penne Pasta,packaged produce,0.00622970112230689,missing,57
+707,Healing Baby Diaper Rash Cream,baby bath body care,0.006218862180418795,other,13
+708,Slim Strawberry,eye ear care,0.006218862180418795,missing,3
+709,Traditional Tartar Sauce,eye ear care,0.006218862180418795,missing,3
+710,Cheddar & Sour Cream,eye ear care,0.006218862180418795,missing,3
+711,Organic Classic Cottage Cheese,fresh vegetables,0.0062166011938049074,missing,116
+712,Pop Tarts Frosted Watermelon Toaster Pastries,breakfast bars pastries,0.006211966525420804,missing,7
+713,ZzzQuil Alcohol-Free Nighttime Liquid Sleep Aid,dog food care,0.006205915194452125,other,36
+714,Peanut Butter Banana,dog food care,0.006205915194452125,missing,1
+715,Garlic Bologna,cat food care,0.006199829383043035,missing,3
+716,Zen Party Mix,chips pretzels,0.00619187886722677,other,70
+717,Organic Dark Hot Chocolate,cocoa drink mixes,0.006172449977225031,missing,23
+718,Baby Move Prune Concentrate with Prebiotics,baby accessories,0.006171722564026766,other,13
+719,Original Dishwashing Liquid,cleaning products,0.006170007915633561,missing,19
+720,Unsweetened Original Almond Milk,cereal,0.006152147153572463,missing,91
+721,Beef Sirloin Tip Roast,marinades meat preparation,0.006147828592175394,other,29
+722,Cara Cara Orange,fresh fruits,0.006141267011082668,missing,102
+723,Taste Of Asia Sukiyaki Beef,instant foods,0.006135049146431028,missing,13
+724,Romaine Lettuce Hearts,salad dressing toppings,0.006126103278453623,missing,69
+725,Garlic Herb Spread,body lotions soap,0.00612609868031088,missing,3
+726,Noodle Chicken,instant foods,0.006125440606240683,missing,71
+727,Coconut Miracle Oil Body Lotion,muscles joints pain relief,0.006122480854314826,missing,6
+728,SystemSupport Liver Cleanse Capsules,vitamins supplements,0.006122041027101531,other,6
+729,Kids Fluoride Free Natural Watermelon Toothpaste,oral hygiene,0.006116328072039199,missing,12
+730,Hand Sanitizer w/ Jelly Wrap Assorted Scents And Colors,plates bowls cups flatware,0.006103378705180058,other,12
+731,Light Creamy Swiss Flavor Spreadable Cheese Wedges,packaged cheese,0.00610169994722186,missing,91
+732,Creamy Chicken Noodle Soup,soup broth bouillon,0.006093163025799426,missing,17
+733,Prosciutto & Cheese Tortelloni,cookies cakes,0.0060915600494992235,missing,24
+734,Peeps Oreo Limited Edition With Marshmallow Peeps Flavored Creme Sandwich Cookies,body lotions soap,0.006085661943483917,missing,19
+735,Greek Low Fat Strained Honey Blended Yogurt With Glazed Pecans,nuts seeds dried fruit,0.00606223301832208,missing,34
+736,Riced Cauliflower & Broccoli,canned fruit applesauce,0.006059971716602409,missing,35
+737,Simply 100 Crunch Blk Cherry,yogurt,0.006049484615378117,missing,31
+738,Constellation Medley Tomato Pack,soup broth bouillon,0.006048599964077137,missing,54
+739,"Steamfresh Fresh Frozen Vegetables Broccoli, Cauliflower & Carrots",cocoa drink mixes,0.0060424891069786706,missing,6
+740,"Melatonin TR, Time Release, 1 mg, Tablets",soap,0.006039953557767656,other,18
+741,Crystal Clear Decorative 60 Watt A Medium Base Ceiling Fan Light Bulb,more household,0.006026215315221244,other,27
+742,Grapefruit Bergamot Foaming Handwash,skin care,0.006024205694954823,other,3
+743,"Concentrated Butcher's Bone Broth, Chicken",packaged produce,0.006020107828637651,missing,40
+744,"Cheese Pizza Sticks, Cheese",baking supplies decor,0.006018129842985369,missing,12
+745,Light & Fit Strawberry Yogurt,canned fruit applesauce,0.006016893805134771,missing,60
+746,Almond Dairy-Free Vanilla Yogurt Alternative,body lotions soap,0.0060157094822772175,missing,7
+747,Active Insect Repellant Aerosol,body lotions soap,0.0060157094822772175,other,7
+748,Dry Sweeping Pad Refills With Febreze Lavender Vanilla & Comfort Scent,cleaning products,0.006013779825952373,missing,5
+749,Tropical Coconut Blend Frozen Fruit,cat food care,0.00600295898746327,missing,20
+750,Men Motionsense Ultraclear Black & White 48H Antiperspirant,deodorants,0.005996307411601601,missing,2
+751,Anti‑Perspirant Deodorant Caring Coconut,deodorants,0.005996307411601601,missing,8
+752,Go Lean Chocolate Crunch Cereal,deodorants,0.005996307411601601,missing,8
+753,Ultra Sensitive Condoms,plates bowls cups flatware,0.005993398909600538,other,7
+754,Zero Lemon‑Lime Soda,oral hygiene,0.005992753150382731,missing,8
+755,Bag,fresh fruits,0.005987751766652444,missing,83
+756,Dried Pears,packaged produce,0.005985787935644191,missing,14
+757,Premium No Pulp & Calcium Orange Juice,indian foods,0.0059836272613099355,missing,19
+758,Natural Relief Baby Teething Tablets,baby food formula,0.005981357408575271,other,68
+759,Delights Fudge Molten Lava Brownie Mix,doughs gelatins bake mixes,0.005980683682058239,missing,5
+760,Flower Bouquet,spirits,0.005974981357672318,missing,11
+761,Carrot & Celery Sticks,eye ear care,0.005974889518312441,missing,13
+762,Black Elderberry Nighttime Syrup,cold flu allergy,0.005971736961513106,other,12
+763,Lemon Lime Sparkling Soda,cold flu allergy,0.005971736961513106,missing,12
+764,Seaweed Crisps Almond Sesame,white wines,0.005967978185567713,missing,10
+765,"Steamfresh Fresh Frozen Vegetables Broccoli, Carrots, Sugar Snap Peas & Water Chestnuts Mixtures",frozen produce,0.00596625712817844,missing,23
+766,Dry Marsala,red wines,0.005963613687709266,other,10
+767,Deluxe Pizza,red wines,0.005963613687709266,missing,10
+768,Moderate Absorbency for Women  Underwear Large,frozen dessert,0.005959829057866614,other,6
+769,Toast Chee Real Cheddar Cheese Cracker Sandwiches,frozen pizza,0.005949254382052906,missing,10
+770,Organic Gala Apple Bag,packaged vegetables fruits,0.0059432760261390735,missing,78
+771,"Frosted Flakes, Marshmallow",cocoa drink mixes,0.00593360651114483,missing,14
+772,Mixations Pineapple Pouch Apple,cocoa drink mixes,0.00593360651114483,missing,14
+773,Go Big Strawberry/Mixed Berry Low Fat Yogurt,breakfast bars pastries,0.005930584753598471,missing,12
+774,General Purpose Wire Hooks,more household,0.005917625964879325,missing,7
+775,Complete Fresh Scent Dish Detergent Action Pacs,shave needs,0.005915399551262303,missing,3
+776,Organic Bloody Mary Mix,spirits,0.005908219694025898,other,5
+777,"PODS HE Turbo Laundry Detergent Pacs, Spring Meadow Scent, 42 count Laundry",laundry,0.005907349737636028,missing,29
+778,Greek Yogurt Salted Caramel Crunch,packaged poultry,0.005905720637724006,missing,9
+779,Honey Mustard Spread,first aid,0.005901785264970925,missing,3
+780,Miconazole Nitrate Powder Spray Antifungal,first aid,0.005901785264970925,other,12
+781,Organic Thai Hom Mali Jasmine Brown Rice,fresh vegetables,0.005890251436188837,missing,126
+782,Coconut Lime Frozen Pop Dairy Free Gluten Free,ice cream ice,0.005878489459905771,other,21
+783,Simply 100 Crunch Vanilla Coconut Macaron Yogurt Vanilla Non-Fat Greek Yogurt,yogurt,0.005876970162871219,missing,35
+784,Nutrient Enhanced Berry Water Beverage Mix,energy sports drinks,0.005861424052686557,missing,6
+785,Butternut Squash Cubes,fresh vegetables,0.0058585488445519925,missing,64
+786,Disney Finding Dory,kosher foods,0.005855693229672665,missing,11
+787,"Fireworks Gain Fireworks Laundry Scent Booster Beads, Moonlight Breeze, 13.2 Oz Fabric Enhancers",canned fruit applesauce,0.005854488881102524,missing,6
+788,Simply Go-GURT Strawberry,canned fruit applesauce,0.005854488881102524,missing,6
+789,Well Yes! Chicken Noodle Soup,beauty,0.005853561036083275,missing,20
+790,Simply Good Vanilla Pudding Mix,frozen dessert,0.005852435954286666,missing,14
+791,No Pulp Orange Juice With Calcium,frozen breakfast,0.005845457287451748,missing,25
+792,Organic White Peach,fresh fruits,0.0058382375655099145,missing,78
+793,Lentil And Rice (Creamy Coconut),frozen vegan vegetarian,0.005834463110249404,other,6
+794,Matzo Ball Soup,prepared meals,0.005800114847245799,missing,41
+795,Boneless Beef Top Round Steak,beers coolers,0.005797710356524485,other,4
+796,Bloody Mary Cocktail Mix,beers coolers,0.005797710356524485,other,4
+797,Korean Style Beef,beers coolers,0.005797710356524485,missing,9
+798,Melatonin 2.5 Mg Sublingual Peppermint Tablets,first aid,0.005795438081165201,other,28
+799,Dairy Free Unsweetened Almond Milk Beverage,ice cream ice,0.005792625273279408,missing,92
+800,Liquid Kimchi Tangy Vegan Fermented & Probiotic Spicy Elixir,asian foods,0.005791794499121234,missing,31
+801,Go & Grow Milk Based Powder,baby bath body care,0.005789445619098956,missing,15
+802,Organic Rich Double Cream Plain Yogurt,baby bath body care,0.005789445619098956,missing,15
+803,Apples & Cheddar w/Cranberries & Cashews,refrigerated pudding desserts,0.005779375353716901,missing,15
+804,Sweets Organic Lollipops,fresh fruits,0.005771233553405528,other,110
+805,Pork Roast Carnitas,salad dressing toppings,0.005770070164949968,missing,28
+806,Extra Fancy Braeburn Apples,fresh fruits,0.005764797691554133,missing,80
+807,Amazonas Honduras Coffee,specialty cheeses,0.005759607899240875,missing,25
+808,Pina Colada Drink,fresh pasta,0.005740851428853351,missing,8
+809,Organe Soda,ice cream toppings,0.005734355974877625,missing,3
+810,Sparkling Water Grape Apple,water seltzer sparkling water,0.005730654554159867,missing,54
+811,Water Based Personal Lubricant,hair care,0.005729215156323058,other,30
+812,Original Raw Tigernuts,nuts seeds dried fruit,0.005722487227894105,other,57
+813,"Storage Container, White lid",facial care,0.005720031979644187,missing,11
+814,White Wine Chicken & Couscous,canned meat seafood,0.005713446249160378,missing,18
+815,No Salt Added Diced Tomatoes,canned meat seafood,0.005713446249160377,missing,8
+816,Her Pleasure Ecstasy Ultrasmooth Lubricant Latex Condoms,oral hygiene,0.005708572867236586,other,27
+817,Sunflower Seeds,soft drinks,0.005698341237797354,other,128
+818,Candigone Advanced Cleansing System,digestion,0.0056967856125686635,other,11
+819,European Style Super Premium Unsalted Butter,cat food care,0.005694906930288628,missing,8
+820,Tamari Roasted Pumpkin Seeds,fresh fruits,0.005690564757450136,other,97
+821,Rose Wine,beers coolers,0.005685122738861025,other,26
+822,Cherry Flavor Teething & Oral Pain Relief Gel,shave needs,0.00568333205497844,other,13
+823,Ramen Noodle Soup Roast Beef Flavor,instant foods,0.005676054761412973,missing,27
+824,for Men Underwear Maximum Absorbency S/M,energy sports drinks,0.005675299435278654,other,10
+825,Cherry Garcia Non-Dairy Frozen Dessert,baking supplies decor,0.00567394722938145,missing,6
+826,Double Stuf Chocolate/Chocolate Variety Pack Sandwich Cookies,body lotions soap,0.005671665291421915,missing,14
+827,Organic Total Body Cleanse,vitamins supplements,0.005667908634522792,other,7
+828,Rhodiola Rosea Vegetarian Liquid Phyto-Caps,vitamins supplements,0.005667908634522792,other,7
+829,Simply 100 Crunch Mix Berry,yogurt,0.005659195285353723,missing,31
+830,Early Pregnancy Test,shave needs,0.005657281503525247,other,82
+831,"Hand Sanitizer, Advanced, Refreshing Gel",deodorants,0.005653372843763529,other,9
+832,Tomato Basil Bisque Soup,soup broth bouillon,0.005637739089133023,missing,47
+833,Raw Walnuts,asian foods,0.0056368838121827825,other,110
+834,Wellness Herbal Kids Tincture,digestion,0.005633132378832008,other,20
+835,Simply 100 Crunch Peach Cobbler A La Mode,packaged meat,0.005630643920017562,missing,34
+836,"Tummy Ache Natural Relief Quick-Dissolving Tablets, Ages 2-12",cold flu allergy,0.005630207601264355,other,6
+837,Children's Multi-Symptom Cold Relief Dye-Free Grape Flavored Syrup,cold flu allergy,0.005630207601264355,missing,6
+838,Almond Dairy-Free Peach Yogurt Alternative,body lotions soap,0.005627180955262149,missing,8
+839,Greek Style Honey Yogurt,instant foods,0.005617837276177436,other,49
+840,"Tomatoes, Organic, Chopped",kosher foods,0.005606399432793871,missing,3
+841,Mango Pineapple,kosher foods,0.005606399432793871,missing,12
+842,Steamfresh Broccoli Florets,baby bath body care,0.005605606616635938,missing,4
+843,3 in 1 Body Wash Shampoo & Conditioner,baby bath body care,0.005605606616635938,missing,4
+844,Calming Tea Tree & Sea Buckthorn Shampoo,baby bath body care,0.005605606616635938,missing,4
+845,Coconut Almond Protein Beverage,refrigerated,0.005594265213242635,missing,86
+846,"Dark Chocolate, 57%, Organic, with Sea Salt, & Gingerbread",cocoa drink mixes,0.005594257867897547,missing,7
+847,Exfoliating Hydro Gloves,soap,0.005591910405474028,other,21
+848,Almond Dairy-Free Yogurt Alternative Strawberry,packaged seafood,0.005590228175596262,missing,14
+849,Vanilla Draft Latte Cold Pressed Espresso,fresh fruits,0.005584401149618179,missing,78
+850,Slow Kettle Thai Chicken with Rice,soup broth bouillon,0.005578703545152589,missing,12
+851,Vegetable Hearty Garden Soup,soup broth bouillon,0.005578703545152589,missing,27
+852,Fancy Diced Hot Chilies,canned jarred vegetables,0.005573147242456848,missing,23
+853,Vitamin Code Kids Chewable Whole Food Multivitamin For Kids Cherry Berry,digestion,0.00556672771198488,other,32
+854,Chicken Broccoli Fettuccine Alfredo,frozen meals,0.005565815878127692,missing,11
+855,Prevent Original Ointment,baby accessories,0.005563115540634147,other,16
+856,Pineaplle Jalapeño Yoghurt,indian foods,0.005560706744010878,missing,22
+857,Cherubs Snacking Tomatoes,packaged cheese,0.005555376916341018,missing,97
+858,Detox & Purify Dry Shampoo,deodorants,0.005551501926075885,missing,21
+859,Spirited Prints Full Sheet Regular Roll Paper Towels with Thirst Pockets,cocoa drink mixes,0.005550380658158752,missing,16
+860,Halloween Candy Mixed Minis,candy chocolate,0.005538238243818676,missing,21
+861,Orange Pineapple Banana Juice,more household,0.005535432225914,missing,18
+862,Butter Rum Individually Wrapped Hard Candy,more household,0.005535432225913999,missing,2
+863,Turkey Meatball,more household,0.005535432225913999,missing,8
+864,100% Natural Ginger Ale,soft drinks,0.00552820301511797,missing,34
+865,Grilled Sesame Beef & Broccoli Meal,frozen meals,0.005525773517280933,missing,31
+866,Kombucha A Bubbly Probiotic Tea California Grape,tea,0.005518122716271902,missing,26
+867,Roasted Carrots,frozen dessert,0.005517729532981419,missing,7
+868,Poly-Vi-Sol® Infants And Toddlers Multivitamin Supplement Drops,doughs gelatins bake mixes,0.0055161698667560155,other,18
+869,Ultra Moisture Shea Butter Body Wash,air fresheners candles,0.005514184182209514,missing,8
+870,Organic Gluten Free White Rice Flour,baking ingredients,0.0055131449497426155,missing,30
+871,Cheesecake Salted Caramel Cups,breakfast bars pastries,0.005512573436150039,missing,5
+872,Original Jerky,bakery desserts,0.0055118383624628035,missing,1
+873,Shrimp Ring,bakery desserts,0.0055118383624628035,missing,16
+874,Extra Clean Toothbrush,bakery desserts,0.0055118383624628035,missing,4
+875,Blow Pop Artificially Flavored,plates bowls cups flatware,0.0055107033909646405,missing,23
+876,Roasted Turkey & Vegetables,frozen meals,0.005503626039309813,missing,20
+877,Jumbo Pull-ups Training Pants Disney Pixar Learning Designs 3T-4T,diapers wipes,0.005494215232982563,missing,6
+878,Organic Probiotic Cashew Mango Smoothie,refrigerated,0.005480867054388194,missing,41
+879,"Snacks Peas Please White Cheddar, Baked Organic Crunchy Pea Snack",fruit vegetable snacks,0.005479714377891024,missing,44
+880,Banana Puffs Cereal Snack Cup,baby food formula,0.005479012695547512,missing,11
+881,Layered Chewy Bars Double Chocolate Almond Naturally Flavored,breakfast bars pastries,0.005478439526307148,missing,9
+882,Single Serve Blender with Travel Lid,facial care,0.005476513674544496,missing,12
+883,Precision Ultra Fine Permanent Marker,body lotions soap,0.005459167400708218,missing,34
+884,Loaded Baked Potato Bites,muscles joints pain relief,0.0054559434373393995,missing,17
+885,Pink Lady (Cripps) Apple Bag,digestion,0.005454256972549534,missing,12
+886,Lavendar Chamomile Hand Soap,paper goods,0.00545356750574313,other,6
+887,Yellow Onion Bag,fresh vegetables,0.005436055852172138,missing,48
+888,Organic Mixed Berry Thirst Quencher,hair care,0.005435210729741549,missing,12
+889,Icelandic Style Skyr Strained Non-Fat Yogurt Pomegranate & Passion Fruit,yogurt,0.005432597557256573,missing,36
+890,Natural Choice Uncured Pepperoni,frozen juice,0.005430293437092289,missing,8
+891,Taste Of Asia Spicy Miso Chicken,frozen juice,0.005430293437092289,missing,8
+892,Falafel With Tahini Sauce,grains rice dried goods,0.0054266319695627325,missing,21
+893,Skyn Original Condoms,deodorants,0.0054238641305208255,other,22
+894,Old El Paso Med Taco Sauce 16 Oz,spices seasonings,0.005423125619802307,other,13
+895,Grill Mates Montreal Chicken Seasoning,spices seasonings,0.005423125619802307,missing,13
+896,Portabello Mushroom,fresh herbs,0.005421220152427556,missing,29
+897,Stimulations Ecstasy Ultrasmooth Lubricant Premium Latex Condoms,digestion,0.005400519140133315,other,34
+898,Original Iced Matcha Unsweetened Tea,tea,0.005396646312144022,missing,37
+899,California Madeira,spirits,0.005393442001857092,other,6
+900,No Mess Toe Nail Clippers With Easy-Slide Clipping Catcher,skin care,0.005388213377744137,other,15
+901,Vermont Cheddar Mac & Cheese,eye ear care,0.005385692630876961,missing,4
+902,Protein Berry Greek Yogurt,energy granola bars,0.00538526083030663,missing,15
+903,"Naturals Just Carrot, Corn & Pumpkin Stage 2",energy sports drinks,0.0053840617856843725,missing,4
+904,Organic Crescent Rolls,diapers wipes,0.00538320954313355,missing,25
+905,Whole Milk Pear Spinach & Mango Yogurt Pouch,yogurt,0.0053779972010710355,missing,32
+906,Pure Leaf Unsweetened Green Tea,canned fruit applesauce,0.005377691423812048,missing,4
+907,Summer Red Spritzer,specialty wines champagnes,0.005376227537086731,other,14
+908,Organic Whole Wheat Couscous,tofu meat alternatives,0.0053738150125194,other,64
+909,Wild Bird Food,cat food care,0.0053692097448444715,other,9
+910,Arouses & Intensifies Personal Lubricant,cat food care,0.0053692097448444715,other,4
+911,Cinnamon Pebbles Cereals,cat food care,0.0053692097448444715,missing,4
+912,Drink Distinct All Natural Soda Pineapple Coconut & Nutmeg,cat food care,0.0053692097448444715,missing,1
+913,Indoor Purna Bynd Gf,cat food care,0.0053692097448444715,missing,1
+914,Peanut Butter Cups Stuffed with Pieces Candy,cat food care,0.0053692097448444715,missing,25
+915,Pork Back Ribs,beers coolers,0.005367636780729853,other,42
+916,Frozen Mexican Style Pulled Pork Bowl,deodorants,0.005363260394530797,missing,10
+917,Sharp Shredded Cheddar Cheese,doughs gelatins bake mixes,0.005361213180131528,missing,14
+918,Organic Lemon Sports Drink,hair care,0.0053522255400860344,missing,22
+919,Whole Milk Strawberry Smoothies,fresh fruits,0.005346597967042423,missing,68
+920,Upbeat Brew Coffee,vitamins supplements,0.005343755507489136,missing,14
+921,Drysack Medium Sherry,beauty,0.005343545701993535,other,6
+922,Olive with Red Bell Pepper Cream Cheese Spread,cold flu allergy,0.005341283915876541,missing,15
+923,Trio Crispy Belgian Chocolate Coffee & Vanilla Ice Cream,kitchen supplies,0.005338517771987276,missing,4
+924,Soothing Relief Diaper Rash Cream,kitchen supplies,0.005338517771987276,other,4
+925,Organic Black Cherry and Chia Icelandic Yogurt,yogurt,0.005327100183451494,missing,26
+926,Steamfresh Potatoes Salt & Vinegar,condiments,0.005326134655341998,missing,9
+927,Pitted Green Olives,eggs,0.005323383393556722,other,77
+928,Whole Milk Peach Yogurt Smoothies,yogurt,0.005322836797267571,missing,54
+929,Plain Salt,cocoa drink mixes,0.0053166815705182535,other,31
+930,Apple Fritters,buns rolls,0.005315249646847493,missing,41
+931,Madagascar Vanilla Bean Pudding,refrigerated pudding desserts,0.005308695243233794,missing,10
+932,Magnum Lubricated Large Size Latex Condoms,body lotions soap,0.0053053570832395465,other,36
+933,Liquid Personal Lubricant,body lotions soap,0.0053053570832395465,other,9
+934,Sensitivity Pack Lubricated Condoms,body lotions soap,0.0053053570832395465,other,4
+935,Poppables Sea Salt Potato Snacks,muscles joints pain relief,0.005302223954020492,missing,2
+936,"Natural Calm, Sweet Lemon Flavor",vitamins supplements,0.005301843052480503,other,8
+937,Original Organic Chewy Banana Bites,fruit vegetable snacks,0.005299691672907445,missing,6
+938,Late Harvest Berry Seltzer,frozen vegan vegetarian,0.005299414290514607,missing,55
+939,Corn & Sea Salt,crackers,0.005291828857870113,missing,28
+940,Hot Cocoa Marsh Creamer,cream,0.005290595693364137,missing,31
+941,Organic Tapioca Flour,baking ingredients,0.005285576408577649,missing,47
+942,Chocolate Peppermint Candy,packaged seafood,0.005270517668458958,missing,7
+943,Transitional Trade Dark Cocoa,cereal,0.005270314941718752,missing,31
+944,Oikos Triple Zero Peach Greek Yogurt,cookies cakes,0.005266401888700479,missing,19
+945,Strawberry Guava,baking supplies decor,0.005253054390010125,missing,7
+946,Coco Re'al Real Gourmet Cream of Coconut,baking supplies decor,0.005253054390010125,other,7
+947,Simply Good Chocolate Pudding,baking supplies decor,0.005253054390010125,missing,7
+948,"4.5\"" Street Taco Flour Tortilla",other creams cheeses,0.005249770755505158,missing,69
+949,Mango Coldpuree Pouch,baby food formula,0.005245755278458313,missing,12
+950,Chicken & Roasted Garlic Ravioli,doughs gelatins bake mixes,0.005245406584287871,missing,26
+951,Antifungal Clotrimazole Cream,baby accessories,0.005244955631075563,other,18
+952,Ultra Thin Condoms,indian foods,0.0052426845958398124,other,44
+953,Organic Honey Lemon Manuka Drops,honeys syrups nectars,0.0052426035419898525,missing,9
+954,Cold Brew Coffee Caffe Latte,coffee,0.005239129643230122,missing,13
+955,Everyone Relax Essential Oils Blend,air fresheners candles,0.005231214436036497,other,20
+956,Peppermint Foot Scrub,soap,0.005230753218704991,other,6
+957,Fresh Air Fabric Softener,eye ear care,0.005224889313933265,other,17
+958,Pro Advance HMO Non GMO Infant Formula Powder,eye ear care,0.005224889313933265,missing,17
+959,ZeroMercury 357 Battery - 3 CT,more household,0.005218855551656446,other,9
+960,Foot Balm,skin care,0.005217115169453765,other,4
+961,Crossovers Olive Thyme Almond,skin care,0.005217115169453765,missing,4
+962,Deep Sleep Herbal Medicine Softgels,skin care,0.005217115169453765,other,4
+963,Well Yes! Italian Vegetables with Farro Soup,protein meal replacements,0.005215979532703382,missing,18
+964,Pop Tarts Dunkin' Donuts Frosted Chocolate Mocha Toaster Pastries,mint gum,0.005215270136215449,missing,2
+965,Extra Strength Instant Relief for Teething Pain Daytime & Nighttime,cold flu allergy,0.005212559363142743,other,7
+966,Fresh Garden Mint Sauce,air fresheners candles,0.005198822703935926,other,9
+967,Organic Artisan Corn Tortillas,canned meals beans,0.005198380900643232,missing,20
+968,The World's Best Pencil #2,paper goods,0.005194955759347447,other,36
+969,Stage 2 Just Pinapple Pear Avocado Baby Food,baby food formula,0.005191951237921384,missing,4
+970,Popcorn Sea Salt,popcorn jerky,0.005191491248068654,missing,65
+971,Rustic Harvest Chicken With Cheese & Nuts Small Snacking Plate,packaged meat,0.005191197194378781,missing,10
+972,Caramel Custard Yogurt,kosher foods,0.005190517282233997,missing,14
+973,Smokehouse Brussels,frozen meals,0.005188868391347772,missing,10
+974,Gourmet Bloody Mary Mix,beers coolers,0.005185629788417316,other,5
+975,Light and Fit Blueberry Greek Yogurt,energy sports drinks,0.00518081586883075,missing,12
+976,Ashwagandha Anti-Stress And Energy Caplets,soap,0.005179217447418077,other,17
+977,Sweet Chili Flavored Tortilla Chips,frozen appetizers sides,0.005176535030484266,missing,11
+978,Easter Mixed Fruit Snacks,deodorants,0.00517278765738666,missing,43
+979,Green Serrano Pepper,fresh herbs,0.005172354751103197,missing,28
+980,Count Chocula Cereal,cold flu allergy,0.005171675913388844,missing,16
+981,Drug Free Sleep Aid Tablets,juice nectars,0.0051683562135929235,other,52
+982,Thintensity Ultrasmooth Lubricant Condoms,feminine care,0.005165941225731757,other,9
+983,Relaxing Sleep,vitamins supplements,0.005162558286569987,other,15
+984,Beef London Broil,soft drinks,0.005161680733021627,other,39
+985,Baby Gouda Cheese,frozen dessert,0.005161363366325164,missing,2
+986,Bursts Grape Soft Drink,frozen dessert,0.005161363366325164,missing,2
+987,Strawberry Cheesecake Nonfat Yogurt,frozen dessert,0.005161363366325164,missing,8
+988,Melatonin 2.5 Mg Peppermint Flavored Sublingual Tablets,vitamins supplements,0.005159049921715875,other,46
+989,Seabreeze Salad,prepared meals,0.005157321777361897,other,21
+990,Lacinato (Dinosaur) Kale,fresh vegetables,0.0051564644130226425,missing,74
+991,Ultra Antibacterial Dish Liquid,body lotions soap,0.005146952384897759,missing,17
+992,"Daffodils, 10\""",fresh vegetables,0.005145622420293751,other,105
+993,Candida Cleanse Tablets,digestion,0.005142322788831713,other,6
+994,Filberts,cream,0.005134980728047741,other,68
+995,Antibacterial Hand Soap,hair care,0.005124365818904178,other,6
+996,Essentials Bathroom 2 Ply Soft Giant Roll Tissue,frozen juice,0.005119729750934349,missing,9
+997,Fiery Mix Chips,frozen juice,0.005119729750934349,missing,9
+998,Organic Dill Bunch,fresh herbs,0.005111528015954085,missing,46
+999,Fresh Linen Fabric Softener Dryer Sheets,first aid,0.005111095967145496,missing,4
+1000,ZZZQuil Vanilla Cherry Nighttime Liquid Sleep Aid,facial care,0.005110992122429938,other,31
+1001,Primadophilus For Children,oral hygiene,0.005110637058415759,other,11
+1002,Season Tyme Leaves .5 Oz,spices seasonings,0.005096446101273062,other,23
+1003,Digital Pregnancy Test,feminine care,0.005095653035935782,other,37
+1004,Basic Dust Clean Living 300 Filtration Level Filter 16 x 20 x 1,cat food care,0.005093679608664011,missing,10
+1005,Vanilla Raspberry Ice Fruit Custard,prepared soups salads,0.005091826731060302,missing,22
+1006,Halloween Variety Bag,candy chocolate,0.005087196664246263,missing,14
+1007,Delicious Blush,diapers wipes,0.005086654895171788,other,7
+1008,Ultimate Clean for Dishes Dishwasher Sparkling Platinum,diapers wipes,0.005086654895171788,missing,7
+1009,Mac and Cheese Chickpea Elbows Pasta with White Cheddar,pasta sauce,0.005080090659316624,missing,28
+1010,Minestrone with Kale Soup,protein meal replacements,0.005076861674304678,missing,19
+1011,Simply S&S Asian,frozen meals,0.0050761648215922,missing,8
+1012,Keurig Colombian Medium Dark Coffee Pods,meat counter,0.005073891450546257,missing,9
+1013,Orange & Ginger Flavored Finest Yoghurt,yogurt,0.005073761290317131,missing,31
+1014,Peach Cream Cheese Spread,canned fruit applesauce,0.005070136097208318,missing,2
+1015,Pears D'Anjou Kid Size Fruit,body lotions soap,0.0050613005348195805,other,89
+1016,Coffeehouse Blend Ground Coffee,doughs gelatins bake mixes,0.005054600260076932,missing,7
+1017,Seltzer Blueberry Lemonade,frozen breads doughs,0.005052245103976318,missing,1
+1018,Sesame Stir Fry Kit,asian foods,0.005043027499864192,missing,23
+1019,Pure & Clear Dishwashing Liquid,cleaning products,0.005042707684704885,missing,4
+1020,Gluten-Free Cornbread Mix,doughs gelatins bake mixes,0.005040220144849777,missing,11
+1021,Butternut Squash Zig Zags,packaged vegetables fruits,0.005035256874961201,missing,59
+1022,Natural Bliss Coconut Milk Coffee Creamer,coffee,0.005034188741133225,missing,22
+1023,Silhouette for Women S/M Briefs,body lotions soap,0.005033103655063346,other,10
+1024,Complete Dawn Lemon ActionPacs Dishwasher Detergent,specialty wines champagnes,0.00502900036927951,missing,4
+1025,Dark Chocolate Peanut Sea Salt,specialty wines champagnes,0.00502900036927951,missing,16
+1026,Hard Seltzer Black Cherry,specialty wines champagnes,0.00502900036927951,missing,4
+1027,Cloves,specialty wines champagnes,0.00502900036927951,other,4
+1028,Large Soup,frozen dessert,0.0050237022015451474,missing,19
+1029,Organic Jicama,fresh vegetables,0.005023448345015258,missing,38
+1030,Family Favorites Broccoli & Cauliflower,marinades meat preparation,0.0050185274737411375,missing,17
+1031,Organic Boldly Seasoned Ranch Corn Tortilla Chips,diapers wipes,0.005015509364821751,missing,45
+1032,Light & Fit Greek Crunch Yogurt Peanut Butter Delight,doughs gelatins bake mixes,0.005014955724377237,missing,16
+1033,Snacks,plates bowls cups flatware,0.005014437290735686,missing,10
+1034,Parsley Italian Dark Green Flat,baby bath body care,0.005013806979968223,other,5
+1035,Sirloin Tip Roast,packaged poultry,0.00501321676156127,other,17
+1036,All Black Single Original Coffee,coffee,0.00500895455345115,missing,18
+1037,Pumpkin Bread Mix,doughs gelatins bake mixes,0.0050046262474485945,other,54
+1038,Stimulations Ultra Ribbed Premium Lubricant Latex Condoms,coffee,0.004998637437340835,other,27
+1039,Habanero & Lime Hummus,fresh dips tapenades,0.00498958936510077,missing,25
+1040,Organic Whole Raw Cashews,plates bowls cups flatware,0.004983387844886609,other,18
+1041,Chickpea Pasta Mac & Cheese Classic Cheddar,dry pasta,0.004980371370433638,missing,30
+1042,Original Recipe Beef Jerky Dog Treats,dog food care,0.004975801806217379,missing,14
+1043,Lavender & Bergamot Sleep Balm,baby accessories,0.004975801806217378,other,5
+1044,Bathroom Tub & Tile Cleaner,baby accessories,0.004975801806217378,missing,5
+1045,Natural Mango Essenced Sparkling Water,tea,0.004973968599455244,missing,18
+1046,Steam Fresh Chef's Favorites Lightly Seasoned Asian Medley,frozen produce,0.0049718809401487,missing,23
+1047,Golden Delicious Apple Bag,ice cream toppings,0.004966097948587103,missing,4
+1048,Variety Pack Captain's Wafers Sandwich Crackers,ice cream toppings,0.004966097948587103,missing,4
+1049,Gluten Free Ginger Oatmeal Cookies,trail mix snack mix,0.0049631688076795175,missing,19
+1050,Chicken With Spinach Fettuccine,frozen meals,0.0049513887081752365,missing,29
+1051,Royal Gala Apple,more household,0.00495104109679467,missing,10
+1052,Emergency Contraceptive,deodorants,0.004947775090739972,other,47
+1053,Organic Coconut Almond Granola,juice nectars,0.004947446512025446,other,41
+1054,Emery Boards Value Pack,beauty,0.004947162014958843,other,7
+1055,Paleo Magazine,beauty,0.004947162014958843,other,7
+1056,Unflavored Pediatric Electrolyte,beauty,0.004947162014958843,other,7
+1057,Crisp Cucumber & Melon Hand Soap,eye ear care,0.004942250509255657,other,19
+1058,Delightful 100% Whole Wheat Bread,packaged poultry,0.004934991559506092,missing,29
+1059,100% Pure Eucalyptus,air fresheners candles,0.0049320362687498235,other,10
+1060,Everyone Coconut Lemon Lotion,soap,0.0049316014288795455,missing,12
+1061,Urban Bourbon Ice Cream,packaged seafood,0.004930117841578008,missing,2
+1062,Three Pepper Salsa,packaged seafood,0.004930117841578008,missing,2
+1063,Cherry Flavor Natural Calm Anti-Stress Drink,skin care,0.004918743352735949,other,18
+1064,Tasters Choice Stick Vanilla,ice cream ice,0.00491627440542998,missing,38
+1065,Steamfresh Chef's Favorite Rotini Pasta & Vegetables,instant foods,0.004915607616655256,missing,9
+1066,Organic White Nectarine,packaged vegetables fruits,0.004915369806509744,missing,59
+1067,Riserva Prosciutto,poultry counter,0.00491350562649987,missing,48
+1068,Organic Cherry/Watermelon Fruity Hearts Treat Packs,fresh fruits,0.004906797608897714,other,95
+1069,Massage & Play 2 in 1 Soothing Touch Massage & Intimate Pleasure Gel,deodorants,0.004895964499764292,other,3
+1070,Organic Gold Potato,deodorants,0.004895964499764292,missing,3
+1071,"Write Bros Ball Point Pens, Cap-Pen, Medium (1.0 mm), Black Ink",plates bowls cups flatware,0.004893589717824801,missing,42
+1072,Seltzer Peach Pink Bellini,fresh fruits,0.0048934964444117095,missing,68
+1073,Kidz 250 Mg Vitamin C Fizzy  Fruit Punch Drink Mix,cold flu allergy,0.004875902811275179,other,8
+1074,Thins Cinnamon Sugar,cookies cakes,0.0048696422321951255,missing,32
+1075,"Oikos Yogurt Drink, Berry",frozen dessert,0.004866180048661801,missing,9
+1076,Cheesy Mix Variety Snack Pack,frozen dessert,0.004866180048661801,missing,9
+1077,Pizza Uncured Pepperoni,frozen pizza,0.0048620498461653,missing,11
+1078,Frothed Milk & Cold Pressed Espresso Draft Latte,fresh fruits,0.004859653413256853,missing,103
+1079,"Fruit Chews Original Cherry, Orange, Strawberry & Lemon",frozen pizza,0.00485754586201549,missing,15
+1080,Potato Bag,kosher foods,0.004855284332562159,missing,4
+1081,Garlic & Herb Jack Sliced Cheese,kosher foods,0.004855284332562159,missing,4
+1082,Double Sided Dark Chocolate Sea Salt Cookies,kosher foods,0.004855284332562159,missing,4
+1083,Girl Scout Caramel Crunch Cereal,cereal,0.004852286691088669,missing,28
+1084,Mixed Berry Nonfat Yogurt Drink,cocoa drink mixes,0.004844769428920247,missing,21
+1085,Ravioli With Mushroom,fresh pasta,0.004841110993015646,missing,45
+1086,"Melatonin, 3 mg, Vegetarian Capsules",frozen meat seafood,0.004839268353094434,other,10
+1087,Yellow Easter Basket Cakes,doughs gelatins bake mixes,0.0048256433957387535,missing,12
+1088,Vegetable Burger Falafil Mix,indian foods,0.004822568414684127,other,13
+1089,Crystal Rain Ammonia-Free Glass Cleaner,eye ear care,0.004817109931424227,missing,5
+1090,Sausage Maple Pork Patties,eye ear care,0.004817109931424227,missing,5
+1091,Peanut Butter Ice Cream Slice Bars,eye ear care,0.004817109931424227,missing,5
+1092,Caramel Whipped Latte,eye ear care,0.004817109931424227,missing,20
+1093,Nut Flour Blend,bulk dried fruits vegetables,0.004816551134376767,missing,10
+1094,Snoozeberry Sleep & Relaxation Shot,energy sports drinks,0.004815651259139664,other,5
+1095,Cinnamon Frosted Flakes of Corn,canned fruit applesauce,0.004809953434264548,missing,20
+1096,Blueberry 100% Whole Grain Fruit Chewy Cookies,canned fruit applesauce,0.004809953434264548,missing,5
+1097,Whole Sesame Seed,grains rice dried goods,0.004805739175957473,other,40
+1098,UltraGel Personal Lubricant,soft drinks,0.004805263252347414,other,45
+1099,Family Size Spaghetti & Meatballs,cat food care,0.004802367189970616,missing,20
+1100,Organic Whole Green Cardamom Pods,spices seasonings,0.004800253972155408,other,21
+1101,Sparkling,frozen breads doughs,0.004792980547799815,missing,10
+1102,Ultra Thin Lubricated Condoms,skin care,0.004787553221149902,other,19
+1103,Spicy Bbq Chicken Soup,soup broth bouillon,0.0047827419891577965,missing,8
+1104,Big Rolls Pick-A-Size With Thirst Pockets Just White Paper Towels,plates bowls cups flatware,0.0047810783628345,missing,11
+1105,Caramel Coffee Mate Natural Bliss Almond Milk Creamer,frozen dessert,0.004778493946773556,missing,21
+1106,Husked Coconut,kitchen supplies,0.0047749154549017086,missing,5
+1107,Bake & Break Cheese Garlic Loaf,kitchen supplies,0.0047749154549017086,missing,5
+1108,Tri-Color Cheese Tortellini,kitchen supplies,0.0047749154549017086,missing,5
+1109,ENZ Armor Spermicidal Lubricant Latex Condoms,kitchen supplies,0.0047749154549017086,other,5
+1110,Psyllium Husk Powder,honeys syrups nectars,0.004768192975778258,other,17
+1111,Plus Pregnancy Test,eye ear care,0.004764462340473081,other,46
+1112,Arugula Rocket Salad,digestion,0.0047608657974188414,other,7
+1113,Unsalted Roasted Cashews,fresh vegetables,0.004758545212156831,other,52
+1114,Invisible Clean Finish Advanced Care Anti Perspirant,body lotions soap,0.004745255633213454,missing,5
+1115,Granola Cups Peanut Butter Chocolate,breakfast bars pastries,0.004744467802878777,missing,3
+1116,Organic Bosc Pear Bag,baby accessories,0.004744240873728916,missing,22
+1117,Organic Kit Pomegranate Cranberry Romaine Lettuce Blend,facial care,0.004742799966328397,missing,16
+1118,B Complex With Vitamin C Stress Formula Tablets,muscles joints pain relief,0.004742453277247015,other,10
+1119,Midnight Chocolate Vegan Cupcake,tofu meat alternatives,0.004737604925028705,missing,71
+1120,Granular Style Sugar Replacement,cream,0.004736060470519294,missing,34
+1121,Natural Grapefruit Soda,soft drinks,0.004733096443434436,missing,13
+1122,Dark Chocolate Apple Blueberry Fruit Bites,energy granola bars,0.004732934785974643,missing,13
+1123,Hachiya Persimmon,fresh fruits,0.004727583248818273,missing,42
+1124,Super Cleanse Tablets,digestion,0.0047235250969963,other,16
+1125,PM Simply Sleep Nighttime Sleep Aid Caplets,laundry,0.0047234047229982494,other,14
+1126,Tomato Pesto Swirl Hummus,preserved dips spreads,0.004693829937419415,missing,4
+1127,Coffee Nut Peanut Chocolate Candy,candy chocolate,0.00469265197469373,missing,13
+1128,Hard Cider,marinades meat preparation,0.004692486124322752,missing,7
+1129,Sleepytime Herbal Mint Tea,tea,0.004689502568111676,missing,25
+1130,Special K Strawberry Pastry Crisps,cookies cakes,0.00468581542269171,missing,6
+1131,Organic Uncooked Corn Tortillas,frozen meat seafood,0.004685601434840835,missing,6
+1132,Kids Sleep & Relax Herbal Syrup,trail mix snack mix,0.004683887846535062,other,12
+1133,Milk Chocolate Malt Balls,frozen vegan vegetarian,0.004677977570212446,other,21
+1134,Sensitivity Ultra Thin Premium Lubricant Condoms,feminine care,0.004672769654940247,other,11
+1135,Cold Brew Cafe Au Lait,eggs,0.004672558469476535,missing,65
+1136,Select A Size Large Paper Towels,spirits,0.004670857787446238,missing,2
+1137,Grass Fed Top Sirloin Steak,spirits,0.004670857787446238,missing,8
+1138,First Cleanse 2 Week Program,skin care,0.00466632966613758,other,5
+1139,Baby Banana,skin care,0.00466632966613758,missing,5
+1140,Chocolate Flavor Greek Yogurt,mint gum,0.004664679418240932,missing,10
+1141,Original Bratwurst,buns rolls,0.004664408437252446,missing,11
+1142,Maximum Absorbency XL for Women Underwear,feminine care,0.004649347103158581,other,25
+1143,Natural Bliss Almond & Vanilla Liquid Coffee Creamer,trail mix snack mix,0.0046358467012303445,missing,49
+1144,Loaded Buffalo Style Chicken Potato Skins,frozen appetizers sides,0.0046350929125089,missing,7
+1145,Variety Pack Tea Sampler,frozen juice,0.004630969803236984,missing,11
+1146,Complete Fresh Scent ActionPacs Dishwasher Detergent,frozen juice,0.004630969803236984,missing,11
+1147,Organic Spicy Jalepeño & Wild Cilantro,fresh dips tapenades,0.004629761940674931,missing,12
+1148,Buttery Homestyle Bites,beauty,0.0046276463242095525,missing,8
+1149,Roasted Veggies Brussel Sprouts,canned jarred vegetables,0.004625978405095022,missing,16
+1150,"Super Glue, All Purpose, Brush",cold flu allergy,0.004625687559974308,other,20
+1151,Cherry Vanilla Nonfat Yogurt,cookies cakes,0.004619748253164937,missing,20
+1152,Lavender,frozen dessert,0.004616463737472086,other,10
+1153,Organic Yellow Sweet Corn,fresh herbs,0.004616002627521763,missing,10
+1154,Anti Bug Shake & Spray,soap,0.004613090728748018,other,42
+1155,Frozen Dessert Dairy-Free Madagascar Vanilla Bean,tofu meat alternatives,0.004606127153588057,missing,4
+1156,Ultra Strength Dish Liquid,body lotions soap,0.0045945740102331595,missing,12
+1157,White Paper Towels Giant Rolls,body lotions soap,0.0045945740102331595,missing,12
+1158,Strawberry & Hibiscus Finest Yogurt,eye ear care,0.004592934107896401,missing,22
+1159,Milano Toasted Marshmallow Cookies,cookies cakes,0.004591142725783426,missing,16
+1160,Red Berry Sprouts & Beet Chews,baby food formula,0.0045890799099051255,missing,8
+1161,Plus Mint Anti-Bacterial Denture Cleanser Tablets,shave needs,0.0045820487896403445,missing,5
+1162,Simply Good Banana Instant Pudding Mix,shave needs,0.0045820487896403445,missing,5
+1163,Water Pitcher Refill Replacement Filters,shave needs,0.0045820487896403445,missing,20
+1164,Milk Chocolate Halloween Kisses,shave needs,0.0045820487896403445,missing,5
+1165,"Melatonin, Fast Dissolve, 5 mg, Tablets, Natural Strawberry Flavor & Sweeteners",refrigerated,0.004577566001491334,other,64
+1166,Just Spinach Zucchini Quinoa,baby bath body care,0.0045769586365090814,missing,6
+1167,Cinnamon French Toast Stick,baby bath body care,0.0045769586365090814,missing,6
+1168,Peanut Butter Pretzels,baby bath body care,0.0045769586365090814,other,6
+1169,Zebra Popcorn,packaged produce,0.004574872876115606,missing,29
+1170,Arrowroot Powder,baking ingredients,0.004571987313464544,other,38
+1171,Fun Size Chocolate Candy,first aid,0.004571503208824944,missing,5
+1172,DHA Chocolate Milk,first aid,0.004571503208824944,missing,5
+1173,Rainier Chilean Cherries,first aid,0.004571503208824944,missing,5
+1174,Berry Boost 100% Fruit Juice Smoothie + Boosts,first aid,0.004571503208824944,missing,5
+1175,Ultra Oxy Power Degreaser Dish Liquid,first aid,0.004571503208824944,missing,5
+1176,Special K  Chocolate Cherry Nut Protein Snack Bars,first aid,0.004571503208824944,missing,5
+1177,"Oikos Yogurt Drink, Vanilla",refrigerated pudding desserts,0.004568997392696671,missing,6
+1178,Simply Good Strawberry Gelatin,refrigerated pudding desserts,0.004568997392696671,missing,6
+1179,2% Milk Fat Creamy Small Curd Peach Cottage Cheese,refrigerated pudding desserts,0.004568997392696671,missing,6
+1180,Anti-Stress Drink Assorted Flavor Packets,water seltzer sparkling water,0.004557525827872825,other,49
+1181,Wood Clothespins,beauty,0.00455699108617586,other,33
+1182,Baby Tummy Gripe Water Dietary Supplement,baby food formula,0.004551825493881994,other,94
+1183,Lasagna With Meat & Sauce,frozen meals,0.004550938633760329,missing,13
+1184,"Multipurpose, 8.5 x 11 Inch Paper",body lotions soap,0.004547448928491039,missing,49
+1185,Coconut & Warm Ginger Hand Soap,cleaning products,0.004545990245419222,other,35
+1186,Cherry Blossom & Rose Petals Ultra-Luxurious Conditioner,baby accessories,0.0045422648182336794,missing,6
+1187,Calms Nerve Tension Sleeplessness 4 GR. - 100 CT,baby accessories,0.0045422648182336794,other,6
+1188,French Infused Garlic Oil,baby accessories,0.0045422648182336794,missing,6
+1189,Naturals Grilled Chicken Nugget,deodorants,0.0045327823416546455,missing,14
+1190,28 Qt Clear Storage Tote Clear With Blue Lid,oral hygiene,0.0045235063393058855,missing,43
+1191,Ramen Noodle Soup Sriracha Chicken Flavor,salad dressing toppings,0.004523309838178091,missing,9
+1192,Turkey Sausage & Roasted Vegetable Lasagna Bake Frozen Entree,muscles joints pain relief,0.004521751781100185,missing,11
+1193,Medium Clear Hooks With Clear Strips,more household,0.004519661486415933,missing,3
+1194,"Cushioned Mailer, #2, Manila",more household,0.004519661486415933,missing,12
+1195,Non-Dairy Caramel Almond Brttle,more household,0.004519661486415933,missing,3
+1196,Creamy Vanilla Milkshake,more household,0.004519661486415933,missing,3
+1197,Ones Amazing Prunes,protein meal replacements,0.004517170780940814,missing,6
+1198,Hazelnut Flavored Ground Coffee K-Cup Pods for Use in All Keurig K-Cup Brewers,protein meal replacements,0.004517170780940814,missing,6
+1199,Original Pickle,air fresheners candles,0.004502312531379817,other,12
+1200,Strawberry Banana Nonfat Yogurt,frozen meat seafood,0.004501780243365181,missing,26
+1201,Organic Radish Bunch,fresh vegetables,0.00449925840351778,missing,40
+1202,Stage 2 Beet Pear Pomegranate Baby Food,baby food formula,0.004496361667249983,missing,3
+1203,"Fruities On-the-Go Apple, Mango, & Carrot Puree",baby food formula,0.004496361667249983,missing,3
+1204,Classic Colors Broad Line Markers,beauty,0.00448947637475701,missing,34
+1205,Organic Coconut Assam Whole Leaf Tea,vitamins supplements,0.004488898273334011,missing,31
+1206,Tribal Pastel Size 3 Diapers,diapers wipes,0.004486007952611291,missing,9
+1207,Cloud 9 Pancake Mix,diapers wipes,0.004486007952611291,missing,9
+1208,Potato Fennel Leek Soup,canned meat seafood,0.004481995986820349,missing,13
+1209,Gripe Water,baby food formula,0.00448088361213659,other,97
+1210,Sparkling Blood Orange,feminine care,0.0044738363359410225,missing,3
+1211,Chunky Crushed Tomatoes,feminine care,0.0044738363359410225,missing,3
+1212,Bacon & Cheese Biscuit,feminine care,0.0044738363359410225,missing,12
+1213,Sweet Mandarin Oranges,feminine care,0.0044738363359410225,missing,3
+1214,Dark Chocolate Sea Salt Granola Bites,feminine care,0.0044738363359410225,missing,3
+1215,Yeastaway,feminine care,0.0044738363359410225,missing,3
+1216,XL Bar Chocolate Nut & Seed Sweet & Salty Chewy Granola Bars,granola,0.004467150419070073,missing,5
+1217,Toilet Tissue Rolls,cocoa drink mixes,0.004462673960426288,missing,11
+1218,Super Colon Cleanse Capsules Psyllum Supplement With Herbs,digestion,0.004453382169587905,other,18
+1219,Baby's Jarro-Dophilus +FOS Powder Probiotic Supplement,digestion,0.004453382169587905,other,50
+1220,Blueberry Muffin Flavor Protein Bar,digestion,0.004453382169587904,missing,2
+1221,Gluten Free Guava Water,packaged poultry,0.004451604425452032,missing,11
+1222,Organic Gooseberry Yogurt,bulk grains rice dried goods,0.0044514403518812595,missing,3
+1223,Organic Whole Grain Vegan Crispy Sunflower Twigs,bulk grains rice dried goods,0.0044514403518812595,missing,3
+1224,Organic Elderflower,bulk grains rice dried goods,0.0044514403518812595,missing,3
+1225,Pull Up's Boy's Nighttime Training Pants Size 2T 3T Jumbo Pack,mint gum,0.004447597316116623,missing,11
+1226,Original Cookies,mint gum,0.004447597316116623,missing,11
+1227,Salad Kit Creamy Balsamic,red wines,0.004445015199088707,missing,18
+1228,Organic Sweet Cream Cherry Lime Yogurt,red wines,0.0044450151990887065,other,8
+1229,Ultimate Clean Burst Tall Kitchen Drawstring Bags,ice cream toppings,0.0044418130383852075,missing,5
+1230,Savory Garlic & Herb Jack Snack Cheese,ice cream toppings,0.0044418130383852075,missing,5
+1231,Aloe Vera Plant,hair care,0.004437830977455664,other,8
+1232,Sheer Fresh Invisible Dry Spray Antiperspirant Deodorant,hair care,0.004437830977455664,missing,8
+1233,Taste Of Asia Tonkotsu Pork,frozen juice,0.0044338160248201235,missing,12
+1234,Shredded Mild Cheddar,latino foods,0.004429931479401911,missing,27
+1235,Butter Snaps Bonus Bag,preserved dips spreads,0.004425385304647595,missing,2
+1236,Sweet Heat Kombucha,tea,0.004423336804993227,missing,34
+1237,Melatonin Chewable Lozenges 3 Mg,pickled goods olives,0.004419093730176422,other,2
+1238,Turmeric Ginger Tea Organic,vitamins supplements,0.004418202543733752,other,32
+1239,"Melatonin, 1 mg, Liquid",vitamins supplements,0.004418202543733752,other,32
+1240,Everything Cream Cheese,frozen meat seafood,0.004417627398017828,missing,3
+1241,Natural Orange Flavor Liquid Sublingual Melatonin,frozen meat seafood,0.004417627398017828,missing,12
+1242,Whole Coriander Seed,spices seasonings,0.004417573296641904,other,15
+1243,Certified Organic Salad Bowl,prepared soups salads,0.004415928387646637,missing,13
+1244,Cherry Flavor Infants' Oral Suspension,cold flu allergy,0.0044104200379742305,other,22
+1245,Prosciutto di Parma,packaged seafood,0.004409631452341186,missing,10
+1246,Steamables Russet Potatoes,frozen dessert,0.00440162546828852,missing,11
+1247,"8\"" Gluten Free Soft Taco Tortillas",latino foods,0.004400690688036638,missing,19
+1248,Pure Ecstasy Ultrasmooth  Lubricant Condoms,eye ear care,0.004397399619038689,other,6
+1249,Special K Peanut Butter Chocolate Protein Bites,energy sports drinks,0.004396068039514918,missing,6
+1250,Tuscan Flair Smoked Chicken Breast with Cheese & Almonds Small Snack Plate,packaged meat,0.004387362395963965,missing,14
+1251,Renew Life Total Body 7-Day Rapid Cleanse,digestion,0.0043853876092428065,other,33
+1252,French Vanilla Medium Roast K-Cup Packs Coffee,cat food care,0.00438394139894934,missing,6
+1253,Original Lightly Salted Potato Crisps,cat food care,0.00438394139894934,missing,6
+1254,Purple Kale,condiments,0.004379923506569231,missing,22
+1255,Red Potato,frozen dessert,0.004379562043795621,missing,25
+1256,12 G. Protein Bar Coffee Chocolate,energy granola bars,0.004378839742957303,missing,12
+1257,Belg Fontina Snacking Cheese,soup broth bouillon,0.004373310257939204,missing,33
+1258,Organic Nacho Corn Tortilla Chips Creamy Farmhouse Cheddar With Paprika,fresh fruits,0.004365580094611107,missing,62
+1259,Eye Makeup Remover Pads With Kiwi Extract No Fragrance Added,beauty,0.004362986795708767,missing,9
+1260,Personal Lubricant Natural Aloe,beauty,0.004362986795708767,other,9
+1261,Rosemont Crest Blend Coffee,frozen breakfast,0.0043622511902624535,missing,17
+1262,Crystal Clear  40 Watt Ceiling Fan Bulb,cold flu allergy,0.004361140055077451,missing,10
+1263,Greens & Avocado,refrigerated,0.004360494820720122,missing,24
+1264,Cherry Danish,kitchen supplies,0.004358881508049513,missing,6
+1265,Paleo Blueberry Muffin,kitchen supplies,0.004358881508049513,missing,6
+1266,Snacking Favorites Veggie Hummus Tray,facial care,0.004352291739506019,missing,19
+1267,Almost Naked Personal Lubricant,skin care,0.004351374850507713,other,23
+1268,Bites Ft Beef Rollers,frozen meals,0.0043509984185076,missing,8
+1269,Black Cherry Dragonfruit Sparkling Water Beverage,water seltzer sparkling water,0.004347250501829587,missing,38
+1270,Sweet & Smoky Boneless Chicken Bites,indian foods,0.0043470044246441755,missing,4
+1271,2 Flavors in One Crazy Beans,indian foods,0.0043470044246441755,missing,4
+1272,Organic Valencia Orange,fresh vegetables,0.00434460397406725,missing,38
+1273,Girl Scouts Thin Mint Cereal,kosher foods,0.004342698327079474,missing,20
+1274,Vanilla Drink Crafted With Authentic Greek Yogurt,kosher foods,0.004342698327079474,missing,5
+1275,Turbinado Sugar,kosher foods,0.004342698327079473,other,45
+1276,Hint Of Jalapeño Tortilla Chips,preserved dips spreads,0.004339447312224008,missing,13
+1277,Protein & Fiber Bar S'mores,frozen breads doughs,0.00433226443562553,missing,34
+1278,AA Rechargeable Nickel Metal Hydride Batteries,muscles joints pain relief,0.004329247729770821,other,12
+1279,Zebra Cake,muscles joints pain relief,0.004329247729770821,missing,3
+1280,Organic Pineapple Cottage Cheese,vitamins supplements,0.004328936724965749,missing,12
+1281,Easter Happy Hoppers Gummi Candy,fruit vegetable snacks,0.0043271801309000685,missing,9
+1282,Concentrated DEEP REACH Fogger,air fresheners candles,0.004325681961020151,other,13
+1283,Greek Whips 2% Vanilla Cream,canned fruit applesauce,0.004323826591781011,missing,11
+1284,Mushroom Steak Sauce,trash bags liners,0.004318536505941776,missing,7
+1285,Lindor Assorted Chocolate Truffle Eggs Pouch,candy chocolate,0.0043171229238954355,missing,6
+1286,Oreo Chocolate Candy Bar,candy chocolate,0.0043171229238954355,missing,6
+1287,Deep Sleep,feminine care,0.004316810413117646,other,29
+1288,Slow Cooker Chicken & Dumplings Starter,plates bowls cups flatware,0.004315740470582389,missing,6
+1289,Popped Snack Bites Dark Chocolate with Sea Salt,tea,0.004303382692604896,missing,19
+1290,Super Glue Gel,feminine care,0.004298322917402109,missing,13
+1291,"Kids Natural Calm Multivitamin, Fruity Splash Flavor",frozen appetizers sides,0.004292156102561816,other,16
+1292,Organic Green Lentil Elbow Pasta,pickled goods olives,0.004287150639769914,missing,34
+1293,Wood Mouse Traps,laundry,0.004286419941007882,other,17
+1294,Happy Hoppers Gummy Candy,candy chocolate,0.004273733652583301,missing,12
+1295,Apple Nectar Juice,cocoa drink mixes,0.004272685022790464,missing,3
+1296,Frosted Fir Gel Hand Wash,soap,0.004270892118749323,missing,9
+1297,Cellular Detox Bath,soap,0.004270892118749322,other,4
+1298,Organic Beet,fresh vegetables,0.004270480701357685,missing,28
+1299,Yogurt Covered Almonds,fruit vegetable snacks,0.0042683041884470085,other,37
+1300,Peppermint Multi Surface Everyday Cleaner Spray,dish detergents,0.00426374785119862,missing,10
+1301,Himalayan Pink Salt Liquid Hand Soap,laundry,0.004262975353479281,other,11
+1302,Holland Mints,skin care,0.004259756698165173,other,6
+1303,Lemon Cream Pie Protein Bar,skin care,0.004259756698165173,missing,6
+1304,Protein & Fiber Bar Cupcake Batter,mint gum,0.0042582502348343905,missing,12
+1305,Frozen Sandwich Bags,diapers wipes,0.004255800819564113,missing,10
+1306,Sugar-Free Monkfruit-Sweetened Regular Chocolate Bars,prepared soups salads,0.0042431889425502516,missing,22
+1307,Essential Goodness Sour Cream Coffeecake Mix,bakery desserts,0.004243015149730141,missing,27
+1308,Skyn Elite Condoms,facial care,0.004242089251357604,other,5
+1309,Tolnaftate Powder Spray Antifungal,facial care,0.004242089251357604,other,5
+1310,Double Thick Adhesive Duct Tape 1.88 Inches X 12 Yards,deodorants,0.004240029632822647,missing,16
+1311,Fig Spread,deodorants,0.004240029632822647,missing,4
+1312,Pediatric Electrolyte Fruit Flavor Natural & Artificial Flavor,deodorants,0.004240029632822647,other,4
+1313,Naturals Stage 2 Just Pear & Blueberry,baby food formula,0.004239210434106285,missing,6
+1314,Safety Swabs Cotton Products,oral hygiene,0.004237516390612676,other,9
+1315,Supergreens Rotini,baby bath body care,0.0042374403015076785,missing,7
+1316,Flip Pure Strawberry Pure Whole Milk Greek Yogurt & Strawberries,baby bath body care,0.0042374403015076785,missing,7
+1317,Eucalyptus Ease Bubble Bath,baby bath body care,0.0042374403015076785,other,7
+1318,Kale & Beet Salad,fresh vegetables,0.0042345961444873225,missing,40
+1319,Almond Avalanche Truffle,candy chocolate,0.0042298993281663965,missing,16
+1320,Hazelnut Non-Dairy Coffee Creamer,food storage,0.004226261850365695,other,4
+1321,Chocolate Covered Peanuts,frozen dessert,0.004214235541530115,missing,3
+1322,Smart Mix Variety Pack,frozen dessert,0.004214235541530115,missing,3
+1323,Carrots and Pasta In A Creamy Lemon Garlic Sauce,frozen dessert,0.004214235541530115,missing,3
+1324,"Cha Cha Cha Muffins (Paleo, Grain Free, Dairy Free)",granola,0.004211669805206368,missing,10
+1325,Deep Cleaning Pet Stain And Odor Remover Formula,cleaning products,0.004202256403920738,missing,16
+1326,Orange Beet Freshly Handcrafted Juice,refrigerated,0.004200662654292269,missing,19
+1327,Ground Rosemary,red wines,0.004190800519670528,other,9
+1328,Zahatar Seasoning,fresh herbs,0.004185090246880809,other,23
+1329,Platinum Premium Lubricant,shave needs,0.004182819136125435,other,6
+1330,Pleasure Pack Lubricated Premium Latex Condoms,shave needs,0.004182819136125435,other,6
+1331,Sweet Balanced Breaks Natural Cheddar Cheese Sea-Salted Roasted Almonds Raisins & Greek Yogurt Flavored Drops  Snacks,protein meal replacements,0.004182087503100278,missing,7
+1332,Paleo Baking Flour,protein meal replacements,0.004182087503100278,missing,28
+1333,Organic Fruity Hearts,candy chocolate,0.004178417905079979,other,31
+1334,Organic Citrus,lunch meat,0.0041743261030223085,missing,62
+1335,Mayonnaise Pouch,first aid,0.004173192381967787,missing,6
+1336,S'mores Frozen Greek Yogurt Bars,pickled goods olives,0.004166361524408938,missing,9
+1337,Organic Whole Milk Yogurt Tubes Very Vanilla Berry Patch,other creams cheeses,0.004166260092663667,missing,35
+1338,Natural Sleep Aid,vitamins supplements,0.004159107874246833,other,13
+1339,Giant Roll Bath Tissue Essentials Strong Toilet Paper,trash bags liners,0.004156735720576204,missing,17
+1340,Mixations Pineapple Mango,salad dressing toppings,0.0041549253945178015,missing,6
+1341,"Condoms, Premium Latex, Ultra Thin, Premium Lubricant",instant foods,0.004154446691792092,other,35
+1342,Chocolate Chip Oreo,cookies cakes,0.004152844849198138,missing,11
+1343,Sharpened No. 2 Pencils,more household,0.004151574169435499,missing,32
+1344,Potato Ridges Salted Chips,cookies cakes,0.004148997840638124,missing,15
+1345,Go Gurt Burstin Melon Berry,cookies cakes,0.004148997840638124,missing,15
+1346,Real Medleys Supergrains Cinnamon Apple Walnut Granola,hot cereal pancake mixes,0.004148070836566733,missing,10
+1347,Black Cherry Natural Sparkling Water,water seltzer sparkling water,0.004147348503364271,missing,16
+1348,Gold Digital Pregnancy Test,eye ear care,0.004145908120279196,other,27
+1349,Performax Intense Lubricated Ultra Fine Latex Condoms,energy sports drinks,0.0041446526950646,other,3
+1350,Organic Sprouted Wheat & Oats Bread,milk,0.004144376502941923,missing,24
+1351,Personal Lubricant,beauty,0.0041390927027038366,other,10
+1352,Skillet Sauce Beef Stroganoff,marinades meat preparation,0.004138383771859774,missing,9
+1353,Master Blend Ground Coffee,marinades meat preparation,0.004138383771859774,missing,1
+1354,Beef Flank Steak,canned jarred vegetables,0.0041290785115593275,other,30
+1355,Yellow Zucchini Squash,seafood counter,0.004127371404692768,missing,2
+1356,Pact Cranberry Cherry Blueberry,juice nectars,0.004124982920027958,missing,10
+1357,Red Anjou Pear,white wines,0.004118296204766752,missing,21
+1358,Oats & Berries Mxd Berry,salad dressing toppings,0.00411398917063319,missing,17
+1359,Salt & Vinegar Flavored Potato Crisps,breakfast bars pastries,0.004108829644730361,missing,1
+1360,The Original Potato Crisps,breakfast bars pastries,0.004108829644730361,missing,9
+1361,"Sweet Chips Ahoy, Nutter Butter & Oreo Cookie Variety Pack",breakfast bars pastries,0.004108829644730361,missing,4
+1362,Boneless Beef Chuck Steak,butter,0.00410618297512984,other,20
+1363,Pleasure Pack Lubricated Ultra Fine Latex Condoms,specialty wines champagnes,0.004106161607000992,other,6
+1364,Cinnamon Frosted Mini Cookies Pumpkin,specialty wines champagnes,0.004106161607000992,missing,6
+1365,Gluten Free Thick Rolled Oats,packaged meat,0.004104001729328197,missing,16
+1366,Organic Chicken Stock Unsalted,latino foods,0.0041013196042454445,missing,14
+1367,100% Orange Peach Mango Juice,food storage,0.0041000762377826116,missing,17
+1368,Rosemary Flaxseed Crackers,beers coolers,0.004099600308453939,missing,2
+1369,Roasted Vegetables With Angel Hair Pasta,instant foods,0.004096339680546047,missing,9
+1370,Organic Fire Roasted Garlic Marinara Sauce,fresh pasta,0.004091485553360167,missing,7
+1371,Black Bean Sea Salt & Rice Chips,mint gum,0.004091194491264658,missing,13
+1372,Phish Food Ice Cream,trail mix snack mix,0.004088432495891547,missing,7
+1373,Organic Fennel Bulb,fresh herbs,0.004080008449869449,missing,20
+1374,Peppermint Liquid Dish Soap,cleaning products,0.004076787533951396,missing,17
+1375,Washable Water Colors,cleaning products,0.004076787533951396,other,17
+1376,Sugar Free Chocolate Chips Baking Pieces,eye ear care,0.004071200954038178,missing,7
+1377,Chili Mac & Cheese,latino foods,0.004069151895010234,missing,8
+1378,Agar Agar Powder,asian foods,0.0040627838394061006,other,7
+1379,Well Yes! Hearty Tomato with Toasted Barley Soup,ice cream toppings,0.004054801995573565,missing,6
+1380,Peanut Butter 'n Chocolate Ice Cream,ice cream toppings,0.004054801995573565,missing,6
+1381,Jumbo Papaya,ice cream toppings,0.004054801995573565,missing,6
+1382,"Plastic Bubble Mailer 6\"" x 9.25\""",cleaning products,0.00405448953154131,other,11
+1383,Anise (Aniseed) Bulb,frozen dessert,0.004048906541789994,missing,13
+1384,Touch Of Phlly Shredded Sharp Cheddar Cheese,other creams cheeses,0.004042273627338335,missing,22
+1385,CleanseMore Natural Laxative Formula Vegetable Capsules,digestion,0.004033969883914734,other,39
+1386,Rising Crust The Works Pizza,frozen pizza,0.0040313987629338735,missing,4
+1387,Water Filtration Pitcher Replacement Filter,cat food care,0.004026907308633354,missing,16
+1388,Cinnamon Coffee Cake,packaged seafood,0.004025424361219224,missing,3
+1389,2% Milk Fat Creamy Small Curd Cottage Cheese,protein meal replacements,0.004025398994959115,missing,17
+1390,Tangerine Lime Drink Tabs,baking supplies decor,0.004012086561990246,missing,3
+1391,Trios Triple Chocolate,body lotions soap,0.004010472988184812,missing,7
+1392,38210 Full Jaw Cuticle Nipper,body lotions soap,0.004010472988184812,other,7
+1393,Frozen Greek Yogurt Bars With Toffee & Caramel & Chocolate Chips,feminine care,0.004001520866949085,missing,15
+1394,"Tulsi Cleanse, Caffeine Free, Infusion Bags",popcorn jerky,0.003995923953070984,other,21
+1395,Organic Biologique Kokuho Rose Medium Grain Heirloom White Rice,spirits,0.003983320905114878,other,11
+1396,Easter Chewy & Gummy Candy,paper goods,0.003982722589030261,missing,5
+1397,Acetaminophen Extra Strength Rapid Release Gels,cold flu allergy,0.0039811579743420705,missing,3
+1398,Yam,canned fruit applesauce,0.003977341984036367,missing,13
+1399,Pull Ups 3T-4T Jumbo Pack Learning Designs Training Pants,frozen breakfast,0.003974387006820628,missing,8
+1400,Vanilla Chai Spice Eggnog,kosher foods,0.0039643230569689596,missing,6
+1401,100% Paradise Blend Juice,kosher foods,0.0039643230569689596,missing,6
+1402,Oats & Berries Blueberry,packaged poultry,0.003961677840622286,missing,20
+1403,Hamantashen Raspberry Fruit Tarts,refrigerated pudding desserts,0.003956867811900182,missing,18
+1404,Organic Turmeric Powder,spices seasonings,0.003950872513439765,other,31
+1405,Reg; Organic Balsamic Vinegar Of Modena 16 Fl Oz,beauty,0.003946470045447537,missing,11
+1406,Clean Day Liquid Hand Soap Peppermint,beauty,0.003946470045447537,missing,11
+1407,100% Pure Moisturizing Apricot Kernel Oil,skin care,0.003943768371302074,other,7
+1408,Organic Veggies Snack Tray,instant foods,0.003941254189144369,missing,14
+1409,Original No Pulp Premium 100% Orange Juice,frozen appetizers sides,0.003933006755837698,missing,14
+1410,70% Cacao Baking Bar,honeys syrups nectars,0.00393195265649239,missing,9
+1411,Tomato Carrot Bisque a Touch of Cream,honeys syrups nectars,0.00393195265649239,missing,4
+1412,Hazelnut Liquid Coffee Creamer,cream,0.003930603587693037,other,43
+1413,Chicken Taco Skillet Sauce Pouch,dog food care,0.003924965396063091,missing,10
+1414,"Veggies On-The-Go Beet, Apple & Mango Puree Stage 2",baby food formula,0.003924746227061121,missing,7
+1415,Organic Baby Carrot Bag,meat counter,0.003915743422209098,missing,34
+1416,Notes Cube,more household,0.003914141663742334,missing,4
+1417,Face & Body Charcoal Soap Bar,more household,0.003914141663742334,missing,4
+1418,Whole Wheat Raspberry Fig Bars,fruit vegetable snacks,0.003914081698493589,missing,11
+1419,French Green Lentils,frozen vegan vegetarian,0.0039138768380197544,other,30
+1420,Berries & Kale Fruit & Veggies Blend,canned fruit applesauce,0.003911694922814851,missing,21
+1421,Greek Yogurt Flip Cinnabun Fun,cat food care,0.003906673924251072,missing,17
+1422,Organic Red Thai Hom Mali Jasmine Rice,fresh vegetables,0.003905699229701328,missing,36
+1423,Chocolate Fudge Greek Yogurt Bar,air fresheners candles,0.0038991170279519443,missing,4
+1424,"8\"" Pecan Pie",air fresheners candles,0.0038991170279519443,missing,4
+1425,Light Fruit Punch,air fresheners candles,0.0038991170279519443,missing,4
+1426,Chocolate Lava Cake,bakery desserts,0.003897458282901604,missing,8
+1427,Soft & Moist Lemon Zest Madeleines,bakery desserts,0.003897458282901604,missing,8
+1428,Organic Vitamin D3 400 IU Drops For Babies & Infants Natural Berry Flavor,indian foods,0.0038880789567986946,other,5
+1429,Gingerbread Box,indian foods,0.0038880789567986946,missing,5
+1430,Mixed Berry Simply Good Gelatin,indian foods,0.0038880789567986946,missing,5
+1431,Mango 2% Milk Fat Creamy Small Curd Cottage Cheese,indian foods,0.0038880789567986946,missing,5
+1432,POW! Pasta Meals Power Protein Complete Meal Italiano With Red Beans And Peppers,indian foods,0.0038880789567986946,missing,5
+1433,Red On the Vine Tomato,diapers wipes,0.0038849968485403967,missing,3
+1434,Ice Cream Truffle Kerfuffle,cleaning products,0.0038818781856119473,missing,12
+1435,Regular Sliced Bacon,packaged produce,0.0038792339486568078,missing,3
+1436,Salisbury Steak Meal,frozen meals,0.003876177469631119,missing,7
+1437,Complete Care Dishwasher Detergent ActionPacs,feminine care,0.003874455919298818,missing,4
+1438,Beet Goes On Vegetable & Fruit Drink,feminine care,0.003874455919298818,missing,4
+1439,Nutrish Zero Grain Salmon And Sweet Potato Dog Food,facial care,0.003872479956531271,missing,6
+1440,Wet Skin Moisturizer With Argan Oil,facial care,0.003872479956531271,missing,6
+1441,Cold Brew All Black Mocha Coffee,vitamins supplements,0.0038719187149274903,missing,15
+1442,Gift Sleeve Valentine Chocolate Hearts,candy chocolate,0.003870321601177323,other,43
+1443,Melatonin 1 mg Tablets,packaged seafood,0.0038675026274643397,other,13
+1444,Garden In A Can Cilantro 1 Each,first aid,0.003863625387443468,other,7
+1445,Unsweet Tea,doughs gelatins bake mixes,0.003860514716591003,missing,3
+1446,Kombucha Spring Fling White Tea Brew,bulk grains rice dried goods,0.0038550604281603115,missing,4
+1447,Apple Veg Drink,yogurt,0.0038514346479614505,missing,23
+1448,Steamfresh Fresh Frozen Vegetables Broccoli & Cauliflower,red wines,0.0038494960826187647,missing,24
+1449,Paleo Banana Bread & Muffin Mix,spreads,0.0038480937516085574,missing,27
+1450,Extra Sensitive Ultra Thin Condoms,plates bowls cups flatware,0.003845897840764934,other,17
+1451,Organic Hazelnut Dark Chocolate Spread,tofu meat alternatives,0.0038417756180111817,missing,23
+1452,Spicy Peanut Chicken & Broccolli,prepared meals,0.0038283185783023845,missing,7
+1453,Caribou Blend Medium Roast Coff K Cups,fresh pasta,0.003827234285902234,missing,2
+1454,"Anti-Fungal Liquid, Maximum Strength",trail mix snack mix,0.0038243784121448072,other,2
+1455,Botanical 3 in 1 Mint & Coconut Lotion,soap,0.0038200020408366356,missing,5
+1456,Rye Flour,baking ingredients,0.003819618864978389,other,10
+1457,Vanilla Dairy Free Almond Milk Creamer Made With Real Almond & Coconut Cream,ice cream ice,0.003818190906118096,missing,7
+1458,Pina Colada Mix,spirits,0.0038137394134494973,other,3
+1459,Almond Joy Mini Creamers,spirits,0.0038137394134494973,other,3
+1460,French Bread Baguette,fresh fruits,0.0038083846447402913,missing,37
+1461,Platinum Fresh Scent Action Pacs Dishwasher Detergent,eye ear care,0.003808259780679516,missing,8
+1462,Sweet Echinacea,asian foods,0.003800386290894907,other,2
+1463,Salad Kit Strawberry Fields,soft drinks,0.0037923159818931333,missing,25
+1464,Vanilla Multigrain Cereal,cereal,0.0037882775486405033,missing,15
+1465,Raw Pistachios,spices seasonings,0.0037864913971216315,other,15
+1466,Chocolate Chip Energy Bar,vitamins supplements,0.003778605756348528,missing,7
+1467,Triple Chocolate Morsels,kitchen supplies,0.0037749021180571015,missing,8
+1468,Black Raspberry Chocolate Chip,pickled goods olives,0.003768615795664799,missing,11
+1469,Organic Sprouted Wheat Flour,baking ingredients,0.0037661949910407586,missing,14
+1470,Thai Chile Pepper,fresh vegetables,0.003758452579180186,missing,24
+1471,K Cup Dark Blend,ice cream toppings,0.003754017188099858,missing,7
+1472,Butternut Squash Chunks,ice cream toppings,0.003754017188099858,missing,28
+1473,Custard Yogurt Vanilla Flavored with Other Natural Flavor,refrigerated pudding desserts,0.003753814405743384,missing,20
+1474,Baby Zucchini Squash,body lotions soap,0.0037514539701747657,missing,8
+1475,ProClean Power Liquid Original Scent Detergent,laundry,0.0037490862715683893,missing,8
+1476,Twizted Strawberry Blasst Candy,cookies cakes,0.0037486523381533685,missing,6
+1477,Tropic Wonder,refrigerated,0.0037375669891886766,missing,6
+1478,Triple Zero Cherry Greek Yogurt,plates bowls cups flatware,0.0037375408836649564,missing,2
+1479,Organic Unbleached White Whole Wheat Flour,plates bowls cups flatware,0.0037375408836649564,missing,2
+1480,Family Size Fried Chicken & Rice,baby bath body care,0.0037370710777572917,missing,9
+1481,Gluten Free Organic Old Fashioned Rolled Oats,fresh fruits,0.003734547809172346,missing,41
+1482,Fresh California Blackberries,packaged produce,0.0037327946075109046,missing,9
+1483,Pink Pearl Medium Rubber Eraser,cleaning products,0.0037295879229496945,missing,13
+1484,Organic Yellow (Ataulfo) Mango,tortillas flat bread,0.0037187725625588528,missing,10
+1485,Limited Edition Pumpkin Spice Cream Cheese Spread,breakfast bars pastries,0.0037165762524708776,missing,11
+1486,Red Sweet Mini Pepper,fresh dips tapenades,0.0037157189387478527,missing,23
+1487,Camilia Teething Relief Single Doses,vitamins supplements,0.0037128858602843606,other,29
+1488,Three Cheese Pizza Pocket,frozen meals,0.0037071066378669805,missing,15
+1489,Organic Daikon Radish Bunch,grains rice dried goods,0.0037070953744727784,missing,5
+1490,YoKids Organic Low Fat Strawberry Banana Yogurt,yogurt,0.003706347810812291,missing,22
+1491,Raw Breaded White Chicken Patty Filled With Broccoli & Cheese,instant foods,0.003705278654786056,missing,11
+1492,Floral Arrangement,tofu meat alternatives,0.0037034655769986194,other,11
+1493,Black Tea With Vanilla Flavor In Pyramid Bags,cocoa drink mixes,0.0037002537721058347,missing,4
+1494,Cider Vinegar Diet Formula Capsules,cocoa drink mixes,0.0037002537721058347,other,4
+1495,Water Filtration System Pitcher,cocoa drink mixes,0.0037002537721058347,missing,4
+1496,Riced Cauliflower,fresh vegetables,0.0036987675141922556,missing,32
+1497,"Homeopathic Remedy, for Travel Fatigue",soap,0.003698701071659659,other,12
+1498,White Gorilla Glue Pen,more household,0.0036902881506093335,other,18
+1499,Everyday Copy & Print Paper,more household,0.0036902881506093335,missing,18
+1500,Broccoli & Sweet Potato Tots,skin care,0.0036890575145519613,missing,8
+1501,Special K Nourish Chewy Nut Bars Chocolate Coconut Cashew,mint gum,0.0036877528790376334,missing,4
+1502,Naan Garlic All Natural,cat food care,0.003683247498296791,missing,34
+1503,Frozen Palak Paneer Meal with Naan Bread,frozen breakfast,0.0036713814532026256,other,6
+1504,Organic Flaky Biscuits,kosher foods,0.003670249968133628,missing,7
+1505,Whole Grain Thin Spaghetti,kosher foods,0.003670249968133628,missing,7
+1506,Hazelnut Dairy Free Almond Milk Creamer,kosher foods,0.003670249968133628,missing,7
+1507,2% Strawberry N Cream Greek Whips,frozen meals,0.003669084026206542,missing,5
+1508,Herb Paste,pasta sauce,0.00365808336527054,missing,6
+1509,Original Non-Dairy Creamer,canned meat seafood,0.003654332499540804,other,11
+1510,Organic Caesar Kit,feminine care,0.003652872071926071,missing,18
+1511,Diphenhydramine Hcl Nighttime Sleep Aid Mini Caplets,frozen dessert,0.0036496350364963502,other,4
+1512,Ground Venison,packaged meat,0.0036480015371806195,missing,9
+1513,Dietary Supplement Tablets for Normal Sleep Patterns,digestion,0.0036361713150330228,other,3
+1514,Rippled Red Heirloom Potato Chips,chips pretzels,0.0036354368683156005,missing,9
+1515,Spring Fling,frozen meat seafood,0.003629451264820825,missing,10
+1516,Cotes De Provence Rose,red wines,0.003629339712227705,other,3
+1517,"Popcorn, Naturally Sweet",fresh vegetables,0.0036267207132940904,missing,36
+1518,Gold Bunny Dark Chocolate,hair care,0.003623473819827699,missing,3
+1519,Easter Candy Fan,hair care,0.003623473819827699,missing,3
+1520,Kitchen Fresh Hands Antibacterial Citrus Liquid Hand Soap,hair care,0.003623473819827699,missing,3
+1521,Masala Chai,hair care,0.003623473819827699,other,12
+1522,"Rice and Corn Puffs, Baked, Aged White Cheddar",frozen juice,0.003620195624728193,missing,18
+1523,Roll N Wrap Roll Avocado Salad,spirits,0.003618030884656501,other,30
+1524,4 Cheese Ravioli,packaged poultry,0.0036165005314619707,missing,6
+1525,Calcium Citrate Magnesium Plus,trash bags liners,0.003613146867649621,other,10
+1526,Yogurt Peanut Clusters,milk,0.003609460527711238,other,25
+1527,Dried Minced Garlic,asian foods,0.00360536300031214,missing,5
+1528,Organic Unpasteurized Brown Rice Miso,asian foods,0.00360536300031214,missing,5
+1529,Fine Sea Salt,food storage,0.0036041682160174154,other,22
+1530,Rosemary Grilled Beef & Vegetables,cat food care,0.003601775392477962,missing,20
+1531,Wasp & Hornet Killer,cleaning products,0.003593920849108144,other,14
+1532,White Mushroom,energy sports drinks,0.003589374523789582,missing,4
+1533,Fruit Sticks Apple Cinnamon,energy sports drinks,0.003589374523789582,missing,4
+1534,Blackberry Flow,energy sports drinks,0.003589374523789582,missing,1
+1535,Sesame Hamburger Bun,energy sports drinks,0.003589374523789582,missing,9
+1536,Japanese Green Tea Bags With Real Matcha,energy sports drinks,0.003589374523789582,missing,4
+1537,Classic Cheddar Cheese Chickpea Pasta Mac and Cheese,yogurt,0.0035853314673806908,missing,18
+1538,Premium Lubricant Condoms Enz,facial care,0.0035852197797229864,other,7
+1539,Life Wheat + Protein Bread,canned fruit applesauce,0.003585127615874699,missing,9
+1540,Steamfresh Whole Green Beans,marinades meat preparation,0.003583945477039829,missing,12
+1541,Special K Nourish Bites Dark Chocolate Pistachio,frozen pizza,0.003583465567052332,missing,9
+1542,Steamfresh Chef's Favorites Lightly Sauced Broccoli With Cheese Sauce,cat food care,0.003579473163229648,missing,9
+1543,Rapid Result Pregnancy Test Kit,ice cream toppings,0.0035677500878021364,other,31
+1544,Organic Autumn Salad,prepared soups salads,0.0035602352859235623,missing,5
+1545,Limited Edition Pumpkin Spice Instant Oatmeal,cookies cakes,0.0035562838634041064,missing,15
+1546,100% Juice Orange Pineapple,specialty wines champagnes,0.003556040263707193,missing,8
+1547,Bite Size Candies Tropical,specialty wines champagnes,0.003556040263707193,missing,8
+1548,All Black Signature Blend Cold Brew Coffee,indian foods,0.0035493142499996664,missing,24
+1549,Lentil & Quinoa Spaghetti,indian foods,0.0035493142499996664,missing,6
+1550,Organic Yellow Peach,other creams cheeses,0.0035470807123988268,missing,14
+1551,Chocolate Lovers Brownie Mix,doughs gelatins bake mixes,0.003546109200057438,missing,8
+1552,Organic Packham Pear,poultry counter,0.0035460172451555506,missing,16
+1553,Golden Acorn Squash,laundry,0.0035346724345058644,missing,4
+1554,Strawberry Drinkable Yogurt,coffee,0.003523932118793258,missing,22
+1555,Super Green Tea Serenity Dietary Supplement Tea Bags,tea,0.0035171269260837567,missing,4
+1556,Quinoa Flour,baking ingredients,0.003514383238047894,other,21
+1557,Extra Virgin Oil Olive,spices seasonings,0.0035118866786131245,other,31
+1558,Organic Summer Sausage,ice cream toppings,0.0035115615354825427,missing,8
+1559,Light & Fit Peach Yogurt,breakfast bars pastries,0.0035040216945587243,missing,22
+1560,Divines Filled Chocolates Caramel,beauty,0.0034981718084059026,missing,14
+1561,Cashew Cookie Fruit & Nut Bars,bulk dried fruits vegetables,0.0034942934554307793,missing,19
+1562,Baby's Vitamin D3,digestion,0.003493520397571523,other,13
+1563,Cooler Ranch Tapatio Flavored Tortilla Chips,air fresheners candles,0.003487476290690998,missing,5
+1564,Caramel Cookie Layer Crunch Chocolate Bars,air fresheners candles,0.003487476290690998,missing,5
+1565,Morsels Healthy Indulgence With Tuna in Savory Sauce Natural Food for Adult Cats,packaged seafood,0.0034861197578285948,missing,4
+1566,Organic Ginger Ale,breakfast bakery,0.003474681623401045,missing,6
+1567,Breakstones Cottage Doubles Strawberry,baking supplies decor,0.003474568884865723,missing,4
+1568,Gold Medal Apple Juice,baking supplies decor,0.003474568884865723,missing,4
+1569,Candle Limited Edition Matcha Garden Green Tea & Aloe,baking supplies decor,0.003474568884865723,missing,4
+1570,Living Jewel Junmai Sake,baking supplies decor,0.003474568884865723,other,4
+1571,Matcha Snakaroons Coconut Macaroons,cereal,0.0034659190650633345,missing,7
+1572,"Sweet Natural Cheddar Cheese, Milk Chocolate Chunks, Raspberry Flavored Dried Cranberries & Graham Crackers Snacks",feminine care,0.003465418724551438,missing,5
+1573,Original Iced Coffee,feminine care,0.003465418724551438,missing,5
+1574,Ultragel Personal Lubricant,feminine care,0.003465418724551438,other,5
+1575,Organic Cranberries Package,fresh herbs,0.0034620019706413222,missing,10
+1576,"Summer Sausage, Premium, Beef",deodorants,0.0034619696982319333,missing,6
+1577,Whole Milk Ricotta Classic Cheese,deodorants,0.0034619696982319333,missing,6
+1578,Green Tea Mochi Ice Cream,packaged meat,0.003460798129585854,missing,10
+1579,Citrus Splash Coconut Water,frozen meat seafood,0.0034605460004967542,missing,11
+1580,Organic Semi Sweet Chocolate Chips,spices seasonings,0.0034565779200046156,other,2
+1581,Organic Chocolate Coconut Milk,pasta sauce,0.0034488740716380065,missing,27
+1582,Mins Baking Bits,cold flu allergy,0.0034477839422592297,missing,4
+1583,Soft & Chewy Strawberry Newtons,cold flu allergy,0.0034477839422592297,missing,4
+1584,Well Yes! Black Bean With Red Quinoa Soup,cookies cakes,0.0034433570443375694,missing,4
+1585,Pompelmo Water,meat counter,0.0034421306253655986,missing,11
+1586,Kombucha Beet,tea,0.0034224010807313372,missing,23
+1587,"White Bean Crunch, Mac N' Cheese",frozen meat seafood,0.00342187946845453,missing,5
+1588,Oatmeal To Go Apples & Cinnamon Squares,breakfast bars pastries,0.0034187529152819546,missing,13
+1589,Chili & Lemon Goat Cheese & Olive Oil Infusion,specialty cheeses,0.0034150273858310153,missing,10
+1590,"Grape Leaves, in Vinegar Brine",specialty cheeses,0.0034150273858310153,other,10
+1591,3 Tri Colored Organic Peppers,preserved dips spreads,0.0034142588869006834,missing,21
+1592,Black Raspberry Water,water seltzer sparkling water,0.0034105400358546757,missing,14
+1593,Ratatouille,first aid,0.0034073973114303303,missing,9
+1594,Aspen Flower Essence Anxiety Homeopathic Remedy,first aid,0.0034073973114303303,other,9
+1595,"Green Chickpeas Chimichurri, Coconut Butternut Squash Gluten-Free Non GMO Meal",bulk dried fruits vegetables,0.00340581596904957,missing,5
+1596,Yogurt,energy sports drinks,0.0034051796611671925,missing,10
+1597,Grape Raspberry,water seltzer sparkling water,0.0034029526181450424,missing,9
+1598,Organic Chickpea Fusilli Pasta,salad dressing toppings,0.003392482378633568,missing,1
+1599,Organic Pummelo,other creams cheeses,0.0033916578776618397,missing,5
+1600,All Natural Peanut Butter,packaged produce,0.0033860729920309057,missing,7
+1601,Apples Honeycrisp,milk,0.0033838692447292857,missing,25
+1602,Anjou Pear,baby bath body care,0.00338030797631182,missing,11
+1603,Artichoke Ravioli,canned fruit applesauce,0.0033800907314722128,missing,18
+1604,Organic Raw Coconut Water,beauty,0.003379555039900583,missing,15
+1605,Spicy Falafel,prepared meals,0.0033762596325721548,missing,1
+1606,Shrimp Egg Roll,prepared meals,0.0033762596325721548,missing,9
+1607,Sweet Potato Kale Quinoa Salad Cup,soup broth bouillon,0.00337368279282929,missing,21
+1608,"Pregnancy Test, Test & Confirm",diapers wipes,0.0033645059644584687,other,4
+1609,No Artificial Flavors or Dyes Strawberry Cheesecake Cups,diapers wipes,0.0033645059644584687,missing,4
+1610,Fiorucci All Natural Uncured Pancetta,asian foods,0.0033590986467752254,other,16
+1611,Max Bed Bug and Flea Killer,body lotions soap,0.0033554024367088977,other,10
+1612,Chocolate Creme Egg Single,breakfast bars pastries,0.0033548453565368235,missing,6
+1613,Cheese Lovers Tortelloni,hair care,0.003354684893396108,missing,14
+1614,Snacking Chocolate Dark Chocolate Gingerbread,chips pretzels,0.003353247135753337,missing,20
+1615,Women's Complete Multi-Vitamin Gummies,vitamins supplements,0.0033531799685156045,missing,20
+1616,Paws Xl,soft drinks,0.0033519654339984432,missing,8
+1617,Lndbrg White Quinoa 16 Z,doughs gelatins bake mixes,0.003343303816251491,missing,1
+1618,Chocolate Chip Brownie Brittle,plates bowls cups flatware,0.0033429581938237904,missing,10
+1619,Homeopathic Grape Flavor Baby Gas Drops,plates bowls cups flatware,0.0033429581938237904,other,10
+1620,Organic Date & Lemon Artisan Crisps Made With Fresh Greek Yogurt & Himalayan Pink Salt,poultry counter,0.003338069746815634,missing,26
+1621,Milk Chocolate Calcium Plus,protein meal replacements,0.003336151718605689,missing,11
+1622,Chewy Nut Butter Almond Snickerdoodle Bars,granola,0.0033296173342524517,missing,9
+1623,Organic Edamame & Mung Bean Fettuccine,frozen vegan vegetarian,0.003317321301910017,missing,29
+1624,Chewy Nut Butter Bars Chocolate Trail Mix,cocoa drink mixes,0.0033096075873714644,missing,5
+1625,"Everyday 8.5\"" Plates",cocoa drink mixes,0.0033096075873714644,missing,5
+1626,"Pain Relief, Tablets",skin care,0.0032995933501778416,other,10
+1627,Onion Crispbread,skin care,0.0032995933501778416,missing,10
+1628,Melatonin 5mg Tablets,skin care,0.0032995933501778416,other,10
+1629,Kiwi Berry,mint gum,0.0032984264486994827,missing,5
+1630,Family Size Orange Chicken,frozen pizza,0.0032916233062917724,missing,6
+1631,Mixed Berry Flavor Enhancer,packaged seafood,0.0032867452277186727,missing,18
+1632,Organic Audacia Granola,indian foods,0.003286026473058829,missing,7
+1633,Banana Nonfat Yogurt,soft drinks,0.003284241979497181,missing,12
+1634,Cinnamon Oat Granola Bars,energy granola bars,0.0032841298072179776,missing,12
+1635,Marshmallow Pumpkins,oral hygiene,0.003282366082024771,missing,15
+1636,Spicy Nacho,buns rolls,0.003281702226651337,missing,8
+1637,Avocado Slicer,frozen dessert,0.0032643328138683056,missing,5
+1638,Seaweed Crisps Pumpkin Sesame,frozen dessert,0.0032643328138683056,missing,5
+1639,"Candy Coated Chocolate, S'mores",frozen dessert,0.0032643328138683056,missing,5
+1640,Roasted Eggplant,fruit vegetable snacks,0.003264174876205178,other,31
+1641,Draft Latte Mocha Espresso Beverage,packaged cheese,0.003259564433965639,missing,25
+1642,Cold Brew Coffee Original Kona Blend,eye ear care,0.0032476948532365315,missing,11
+1643,Vanilla Latte Frothing Coffee Creamer,cookies cakes,0.00324642815479675,missing,8
+1644,Roses,kosher foods,0.003236856221708106,missing,9
+1645,Quiche Port/Qui/Kal/Parm/As,first aid,0.0032325409191761795,missing,10
+1646,Crisp & Thin Sea Salt With Vinegar Potato Chips,refrigerated pudding desserts,0.003230769039599471,missing,3
+1647,Whole Grain Almond Crunch Cereal,refrigerated pudding desserts,0.003230769039599471,missing,3
+1648,Organic Strawberry Fruit Leather,refrigerated pudding desserts,0.003230769039599471,missing,3
+1649,Cheesecake Milk Chocolate Cups,refrigerated pudding desserts,0.003230769039599471,missing,3
+1650,Cauliflower Roasted Veggies,refrigerated pudding desserts,0.003230769039599471,missing,12
+1651,"Raw Shea Butter Bath, Body and Massage Oil",soap,0.003228490977884699,other,7
+1652,Organic Fine Ground Black Pepper,specialty cheeses,0.0032197186966118393,other,5
+1653,Raspberry Whole Milk Yogurt,breakfast bakery,0.003216930087255006,missing,7
+1654,Hanging Moisture Absorber,deodorants,0.003205161131426638,other,7
+1655,Fruit Sticks Apple Strawberry,deodorants,0.003205161131426638,missing,7
+1656,Baby & Me 2 Dietary Supplement,protein meal replacements,0.003194122090980982,missing,3
+1657,Pringles Loud Spicy Queso Corn Crisps,protein meal replacements,0.003194122090980982,missing,3
+1658,Pike Place Medium Roast Ground Coffee K-Cups,cereal,0.003189775530634933,missing,40
+1659,Cleaner Multisurface Made with Vinegar,bakery desserts,0.0031822613622976056,missing,3
+1660,Naturals Flushable Moist Wipes Tush Wipes,soap,0.003172339025235444,other,29
+1661,Harvest Snaps Black Bean Habanero,chips pretzels,0.003167996950614323,missing,15
+1662,Zero Calories Apple Sparkling Beverage,soft drinks,0.003160263318244278,other,9
+1663,Organic Raw Pumpkin Seeds,packaged meat,0.0031592620042430993,other,3
+1664,Baby Broccoli,fresh vegetables,0.003156281612110725,missing,18
+1665,Sugar Free Monkfruit 55% Cacao Chocolate Bar With Cocoa Nibs,tortillas flat bread,0.003155483156011007,missing,5
+1666,Espresso Iced Coffee,digestion,0.0031490167313308667,missing,4
+1667,Cleanse Smart Advanced Total-Body Internal Cleanse 30-Day Program Vegetable Capsules,skin care,0.0031460388191181035,other,11
+1668,Lemon Cayenne Caffeine Kick,tea,0.0031458139568872633,missing,5
+1669,Tropical Pineapple Chunk,hot dogs bacon sausage,0.0031411673128217492,missing,6
+1670,Turmeric Flaxseed Crackers,canned meat seafood,0.0031293833917584203,missing,15
+1671,Organic Acai Berry Energy,refrigerated,0.0031146391576572304,missing,24
+1672,Organic & Raw Cayennade,refrigerated,0.0031146391576572304,missing,6
+1673,Jonamac Apple,bulk dried fruits vegetables,0.003109070388266277,missing,6
+1674,Honey Butter,bulk dried fruits vegetables,0.003109070388266277,missing,6
+1675,Habanero Almond Spread,bulk dried fruits vegetables,0.003109070388266277,missing,6
+1676,Broccoli Rabe Rapini Bag,baking supplies decor,0.003107748887626159,missing,5
+1677,Organic Rosemary & Pumpkin Seed Crackers,asian foods,0.0031030024127202947,missing,12
+1678,"Delights Turkey, Veggie & Cheese Frittatas",frozen meals,0.003100941975704895,missing,7
+1679,Hickory Smoked Turkey,cat food care,0.0030999146915215176,missing,12
+1680,Triple Zero Greek Salted Caramel Nonfat Yogurt,shave needs,0.003089216663775386,missing,11
+1681,Limited Edition Pumpkin Spice Cheerios Cereal,food storage,0.0030750571783369584,missing,17
+1682,Deluxe Chickpea Elbow Pasta Mac &Cheese with White Cheddar,indian foods,0.0030737963065138223,missing,8
+1683,Pineapple Orange Simply Good Gelatin,indian foods,0.0030737963065138223,missing,8
+1684,Chocolate Covered Raisins,kosher foods,0.003070751435725371,other,10
+1685,Halloween Cake Mix,muscles joints pain relief,0.003061240427157413,missing,6
+1686,Strawberry Banana on the Bottom Greek Yogurt,muscles joints pain relief,0.003061240427157413,missing,6
+1687,Organic Dried Mini Cranberries,eggs,0.0030449406440280777,missing,12
+1688,Organic Fingerling Potato,fresh vegetables,0.0030448002981842224,missing,17
+1689,Mission District Pizza,popcorn jerky,0.003020634582214845,missing,3
+1690,Deep Sleep Herbal Formula,vitamins supplements,0.003014284631450292,other,11
+1691,Gluten Free Organic Steel Cut Oats,packaged vegetables fruits,0.003014254779492138,missing,21
+1692,French Vanilla Dairy Creamer,yogurt,0.0030114075962849865,missing,22
+1693,Organic & Raw Kombucha Pomegranate,cleaning products,0.0030068899129761864,missing,5
+1694,Chips With Sea Salt,trail mix snack mix,0.003000089253982979,missing,13
+1695,Sweep & Vac Floor Vacuum Starter Kit,facial care,0.002999610076033526,other,10
+1696,Organic Psyllium Husk Powder,vitamins supplements,0.0029991753401565984,missing,25
+1697,Long Lasting No Aluminum Men's Deodorant Deep Forest,deodorants,0.0029981537058008005,missing,8
+1698,Well Yes! Roasted Chicken with Wild Rice Soup,ice cream toppings,0.002994669739566742,missing,11
+1699,Raspberry Lemonade Cans,packaged produce,0.0029928939678220954,missing,14
+1700,Fruit Chews Original,candy chocolate,0.00299099049868288,missing,2
+1701,Red Cherry Tomato,canned meals beans,0.0029888588711181946,missing,8
+1702,Organic Satsuma,frozen dessert,0.002979914528933307,missing,6
+1703,Organic Sprouted Sonoma Sun Bread,bulk grains rice dried goods,0.002967626901254173,missing,27
+1704,Superfood Superflakes Cocoa Coconut,soy lactosefree,0.0029548504200566663,missing,17
+1705,Probiotics 100% Strawberry & Banana Juice,dog food care,0.0029254964783104864,missing,18
+1706,Autumn Glory (Huaguan) Apple,packaged meat,0.002924908263975977,missing,14
+1707,Sweet Lemon,seafood counter,0.002918492308733703,missing,16
+1708,Mozzarella Marinated Ciliegine,seafood counter,0.002918492308733703,missing,4
+1709,Chocolate Peanut Butter Powder,seafood counter,0.002918492308733703,missing,4
+1710,Sweet Buttercream Dairy Creamer,latino foods,0.0029000709039752807,missing,7
+1711,Roasted Tamari Almonds,indian foods,0.0028980029497627834,other,9
+1712,Organic Heirloom Apple,fresh fruits,0.0028941804339500106,missing,15
+1713,Norwegian Gold Kids DHA Chewables Fruit Punch Flavor,vitamins supplements,0.002885957816643833,other,3
+1714,Organic Low Fat Peach Kefir,refrigerated,0.002883595535697712,missing,7
+1715,Grain Free Granola Coconut Cashew,bulk dried fruits vegetables,0.0028784398570645695,missing,7
+1716,Oroblanco,bulk dried fruits vegetables,0.0028784398570645695,missing,7
+1717,Gummy Bears Made With Real Fruit Juice,cat food care,0.0028699633289908494,missing,14
+1718,Organic Concorde Pear,canned meat seafood,0.0028567231245801884,missing,8
+1719,Cranberry,baking supplies decor,0.002836973614690725,missing,6
+1720,Organic Bowel Cleanse,muscles joints pain relief,0.002834157917698644,other,7
+1721,"Magnesium Supplement, Raspberry-Lemon Flavor",candy chocolate,0.002826220369025702,other,14
+1722,Herbatonin 0.3 mg Plant Melatonin Vegan Capsules,cold flu allergy,0.0028151038006321775,other,6
+1723,Super Food Salad,prepared soups salads,0.0028146131274048155,missing,2
+1724,Custard Caramel Sea Salt,prepared soups salads,0.0028146131274048155,missing,8
+1725,Poppables White Cheddar Chips,prepared soups salads,0.0028146131274048155,missing,8
+1726,Organic Envy Apple,fresh fruits,0.002802278155401936,missing,16
+1727,Breton White Bean Crackers with Salt & Pepper,refrigerated pudding desserts,0.002797928062053395,missing,4
+1728,Raisin Bran Crunch Apple & Strawberry Cereal,refrigerated pudding desserts,0.002797928062053395,missing,4
+1729,Frozen Custard and Fruit Ice Flavors: Vanilla Custard,specialty cheeses,0.002788358184305574,missing,15
+1730,Organic Graffiti Eggplant,fresh vegetables,0.002785489880286925,missing,13
+1731,Brussels Sprout Stalk,buns rolls,0.002767374303643827,missing,5
+1732,2% Organic Reduced Fat Milk,protein meal replacements,0.0027661908735786005,missing,4
+1733,Free Ride Hibiscus Fruit Herbal Refresher Kombucha,protein meal replacements,0.0027661908735786005,missing,4
+1734,Organic Tulsi Ginger Tea,tea,0.0027633158885862464,other,18
+1735,Original Ultra Strength HD Dish Liquid,marinades meat preparation,0.0027589225145731823,missing,9
+1736,Enameled Lemon Squeezer,frozen breakfast,0.0027535360899019696,missing,6
+1737,Chocolate Chip Cookie Dough Pint Slices,ice cream ice,0.0027494116888411484,missing,6
+1738,Organic Soybean Spaghetti Pasta,tofu meat alternatives,0.0027465635809148024,missing,5
+1739,California Select Extra Virgin Olive Oil,cleaning products,0.0027449023887863395,missing,6
+1740,Heavy Organic Coconut Cream,fresh fruits,0.002742983251332178,missing,19
+1741,Cheesecake Cherry Cups,packaged meat,0.0027360011528854648,missing,4
+1742,Chub Chorizo,packaged seafood,0.0027347373341368247,missing,26
+1743,Sugar Free Monkfruit Sweetened Almond Dark Chocolate Bar,soy lactosefree,0.002707368975509855,missing,16
+1744,"Cocktail Mixer, Mojito",poultry counter,0.0026912378680625315,other,10
+1745,Strawberry 2% Milkfat Cottage Cheese,cat food care,0.0026846048724222357,missing,4
+1746,Reserve Dark Roast Guatemala San Sebastián Ground Coffee,eggs,0.0026637681696179928,missing,8
+1747,Organic Herbes De Provence,condiments,0.002635753094573055,other,3
+1748,Cipollini Onion,packaged seafood,0.002635258834229479,missing,7
+1749,Mini Pineapple,baking supplies decor,0.0026265271950050625,missing,7
+1750,Mint Lemonade Flavored Greens Drink Mix Pouches,oils vinegars,0.002625265780594255,missing,6
+1751,Hot Chili with Beans,hot cereal pancake mixes,0.002623470347854188,missing,1
+1752,"Legume Bowls Green Chickpeas, Kale, Potato, Tomato & Rosemary",packaged vegetables fruits,0.002620842097117364,missing,10
+1753,Mens Complete Gummy Vitamins,instant foods,0.0026068946095418807,missing,8
+1754,Fruit Salad,beers coolers,0.002592814894208658,missing,5
+1755,Original Lapanzena Mini Crackers,beers coolers,0.002592814894208658,missing,5
+1756,Cookies & Cream Greek Crunch Yogurt,hot dogs bacon sausage,0.002580732291195538,missing,5
+1757,Organic Sushi Rice,canned meat seafood,0.0025551308397827608,other,10
+1758,Harbison,specialty cheeses,0.0025454111265805174,missing,2
+1759,Apple Wedges,canned fruit applesauce,0.002535068048604159,missing,2
+1760,Bogota Blackberry Lime Sparkling Antioxidant Infused Beverage,canned fruit applesauce,0.002535068048604159,missing,2
+1761,Smoked Ranch Spice Almonds,buns rolls,0.002526255551943125,missing,6
+1762,Original Salad Cream,canned jarred vegetables,0.0025180637008037202,other,6
+1763,Beef Chuck Eye Steak,coffee,0.0025044772767255745,other,8
+1764,Garden In A Can Basil 1 Each,butter,0.00249894337858032,missing,6
+1765,Frosted Sugar Cookie Coffee Creamer,nuts seeds dried fruit,0.0024840456365728563,missing,10
+1766,Mini Easter Candy Cane,candy chocolate,0.0024421335157618863,missing,3
+1767,"Noodles, onions & mushrooms in a sour cream sauce Beef Stroganoff Starter",candy chocolate,0.0024421335157618863,missing,3
+1768,"Brewed Bars, Specialty, Tropical Fruits + White Tea",frozen dessert,0.0024330900243309003,missing,9
+1769,Fruit & Nut Mix,fresh pasta,0.002420555496507823,missing,5
+1770,Mushroom Coffee Mix Lions Mane & Chaga,other creams cheeses,0.0023982642847594606,missing,10
+1771,Organic Sprouted White Bread,marinades meat preparation,0.0023892969846932193,missing,12
+1772,Vanilla Bean Greek Nonfat Yogurt Honey Oat Crisps Dippers,marinades meat preparation,0.0023892969846932193,missing,3
+1773,Organic Honeycrisp Apples,oils vinegars,0.002378022521514048,missing,13
+1774,Pediatric Electrolyte Solution with Zinc Grape,plates bowls cups flatware,0.002363828408075935,other,5
+1775,Total 2% Greek Yogurt,coffee,0.002361243820933695,missing,4
+1776,Four Cheese Tortellini,canned meals beans,0.0023446538011087045,missing,13
+1777,Natural Uncured Bacon Pork Sticks,popcorn jerky,0.0023397734863792583,missing,5
+1778,Asian Pear Package,feminine care,0.0023363848274701236,missing,11
+1779,All Purpose Flour Blend,baking ingredients,0.0023245460149121594,other,12
+1780,Biscuits,packaged seafood,0.0023240798385523965,missing,9
+1781,Go Gurt Low Fat Yogurt Vitamin A & D,baking supplies decor,0.0023163792565771488,missing,9
+1782,Teething Gel,grains rice dried goods,0.0022990429543480674,other,13
+1783,MicroThin Condoms,prepared soups salads,0.0022981219951603263,other,3
+1784,Rts Brown & Quinoa Rice,baking ingredients,0.002282658872087768,missing,7
+1785,Ambrosia Apple,packaged poultry,0.002232152588577071,missing,7
+1786,Chocolate Bar,laundry,0.0021314876767396405,other,11
+1787,Garlic Extra Virgin Olive Oil,coffee,0.0021119606780236333,other,5
+1788,Golden Honeydew Melon,specialty cheeses,0.002078319481908384,missing,3
+1789,Organic Sea Buckthorn,breakfast bars pastries,0.0020544148223651804,missing,4
+1790,Cherub Tomatoes,laundry,0.0020407440815591107,missing,3
+1791,"Sleep Aid, Calms Forte, Tablets",butter,0.0020403787245428114,missing,1
+1792,Starfruit (Carambola),asian foods,0.0020313919197030503,missing,7
+1793,French Roast K Cup,cocoa drink mixes,0.0019778688370482764,missing,14
+1794,Fresh Oregano,honeys syrups nectars,0.001965976328246195,missing,4
+1795,Organic Plain Skyr,tea,0.001950950996047697,missing,13
+1796,Doc McStuffins Adhesive Bandages,bread,0.001947854634687588,other,2
+1797,Salted Caramel Craze Ice Cream,hot dogs bacon sausage,0.0019235642782806683,missing,1
+1798,Chocolate Pudding With Sea Salt,vitamins supplements,0.001889302878174264,missing,7
+1799,Avocado Oil Mayonnaise,popcorn jerky,0.0018497533564578532,missing,2
+1800,Honeycrisp Apple Bag,canned jarred vegetables,0.0018389337202201828,missing,5
+1801,Popcorn Butter Flavor,popcorn jerky,0.0017439641891652334,missing,9
+1802,Organic Green Bell Pepper,milk,0.001595171259731119,missing,2
